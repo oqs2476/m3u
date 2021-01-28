@@ -1,1093 +1,528 @@
 #EXTM3U
-
-
-#EXTINF:-1 group-title="Premium Movies",WB
-http://203.154.243.89:11205/
-#EXTINF:-1 group-title="Premium Movies",MBC Variety
-http://1skytv.com:8889/live/LcdfBv1UAC/E8Lh8az1pL/31.ts
-
-  
-#EXTINF:-1 group-title="Premium Movies",MBC 2
-http://m4.mio4ever.eu:8000/bahoztestt4567/hNBOfssQI8/22261
-
-#EXTINF:-1 group-title="Premium Movies",MBC Action
-http://m4.mio4ever.eu:8000/bahoztestt4567/hNBOfssQI8/22263
-
- 
-#EXTINF:-1 group-title="Premium Movies",MBC Max
-http://m4.mio4ever.eu:8000/bahoztestt4567/hNBOfssQI8/22264
-
- 
-#EXTINF:-1 group-title="Premium Movies",Kable eins
-http://176.10.117.3:5000/play/a04i/index.m3u8
-
-
-
-
-
-#EXTINF:-1 group-title="Premium Movies",Zee Cinema
-http://m4.mio4ever.eu:8000/bahoztestt4567/hNBOfssQI8/21805
-
-
-#EXTINF:-1 group-title="Premium Movies", Nginx
+#EXTINF:-1,Nginx
 http://51.77.118.216:4780/nginxlive/dexena2020/index.m3u8
 
-#EXTINF:-1 group-title="Premium Movies", Movie Zone
-https://m-c09-j2apps.s.llnwi.net/hls/8012.MovieZone.in.m3u8
-
- 
-#EXTINF:-1 group-title="Premium Movies",WWE
-http://cdnak10.cast4u.info/channels/3/10803.m3u8
-
-#EXTINF:-1 group-title="Premium Movies",&Prive
+#EXTINF:-1,&Prive
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 
- 
-#EXTINF:-1 group-title="Premium Movies", TV1000
-http://195.191.208.78:8080/tv1000hd/index.m3u8?streamType=live
-
-#EXTINF:-1 group-title="Premium Movies",iFilm
-http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/chunklist.m3u8
-
-
-
-#EXTINF:-1 group-title="Premium Movies",Movie Kingdom
+#EXTINF:-1,Movie Kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/mid/c.m3u8
- 
-#EXTINF:-1 group-title="Premium Movies",Cine Film
+
+#EXTINF:-1,Cine Film
 https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Premium Movies",Cine Series
+
+#EXTINF:-1,Cine Series
 https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8
 
-
- 
-#EXTINF:-1 group-title="Premium Movies",Movies Now
-https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
- 
-
- 
-#EXTINF:-1 group-title="Premium Movies",WoW
+#EXTINF:-1,WoW
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
- 
-#EXTINF:-1 group-title="Premium Movies",MNX
-https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
 
-#EXTINF:-1 group-title="Premium Movies",KIX
+#EXTINF:-1,KIX
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
 
- 
-
-#EXTINF:-1 group-title="Premium Movies" ,Celestial
+#EXTINF:-1,Celestial
 http://210.210.155.35:80/session/18437ccc-73b6-11e9-9278-9c128a7729b7/qwr9ew/s/s33/01.m3u8
 
-#EXTINF:-1 group-title="Premium Movies" ,Channel V
+#EXTINF:-1,Channel V
 https://www.fanmingming.cn/hls/channelv.m3u8
- 
-  
-#EXTINF:-1 group-title="Premium Movies",Cinemax
-http://193.33.39.108:8107/30709
- 
- 
-#EXTINF:-1 group-title="Premium Movies",Wowow Movie
-http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
- 
-#EXTINF:-1 group-title="Premium Movies",My Cinema
+
+#EXTINF:-1,My Cinema
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 
-#EXTINF:-1 group-title="Premium Movies",Ria
-https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master01.m3u8
-  
-#EXTINF:-1 group-title="Premium Movies",VH1
-http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&tc=1&sig=b3143cb0429574cc3c877de30e62fab7d66c763ec2f61cd9bfde33fdab12dfb7&pbs=62317bc417264eaeb05c22777b5c8697
- 
- 
-
-#EXTINF:-1 group-title="Premium Movies",M Channel
+#EXTINF:-1,M Channel
 http://rr2.dens.tv/s/s42/index.m3u8
- 
-#EXTINF:-1 group-title="Premium Movies",Cinema World
+
+#EXTINF:-1,Cinema World
 http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/01.m3u8
 
-#EXTINF:-1 group-title="Premium Movies",Onyx 
-https://d2e40kvaojifd6.cloudfront.net/stream/onyx/chunklist_w1197922140.m3u8
- 
-#EXTINF:-1 group-title="Premium Movies",Pluto
+#EXTINF:-1,Pluto
 https://stitcher.pluto.tv/stitch/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
- 
-#EXTINF:-1 group-title="Premium Movies",Thrill
+
+#EXTINF:-1,Thrill
 http://rr2.dens.tv/s/s34/index.m3u8
 
-#EXTINF:-1 group-title="Premium Movies",American Horror
+#EXTINF:-1,American Horror
 http://170.178.189.66:1935/live/Stream1/.m3u8
 
-#EXTINF:-1 group-title="Premium Movies",HIT
+#EXTINF:-1,HIT
 http://210.210.155.35/uq2663/h/h37/index2.m3u8
 
-#EXTINF:-1 group-title="Premium Movies",Box
-http://51.158.190.97/hls/stream.m3u8
-
-#EXTINF:-1 group-title="Premium Movies",Retro
-http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8 
- 
-#EXTINF:-1 group-title="Premium Movies",FR Classic Movies
+#EXTINF:-1,FR Classic Movies
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
- 
-#EXTINF:-1 group-title="Premium Movies",Victory
+
+#EXTINF:-1,Victory
 http://184.173.179.163:1935/victorytelevisionnetwork/victorytelevisionnetwork/playlist.m3u8
 
-#EXTINF:-1 group-title="Premium Movies", Bolt
-http://77.89.204.107:8000/play/a06q/tracks-v1a1/index.m3u8?streamType=live 
-
-
-#EXTINF:-1 group-title="Premium Movies",Fox
-http://203.153.218.28:9981/stream/channelid/1910872088?ticket=43267CB65373CDE0D29D967CA3C63DDEBB591EB2&profile=pass
- 
- #EXTINF:-1 group-title="Premium Movies", FOX Family Movies
-http://203.153.218.28:9981/stream/channelid/1949182550?ticket=C4FE458C6B9C4686BA0966E59174C0D6805DBB39&profile=pass
-   
-#EXTINF:-1 group-title="Premium Movies", Fox Action Movies 
-http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
- 
-#EXTINF:-1 group-title="Premium Movies", Fox Movies 
-http://203.153.218.28:9981/stream/channelid/756717990?ticket=D9CDD7DB18E80023C22954FE693F71DB745D5CE7&profile=pass
-
-#EXTINF:-1 group-title="Premium Movies", Fox Movies 
-http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
-
-#EXTINF:-1 group-title="Premium Movies",HBO
-http://iptv.kitv.live:1935/live/Shari/MTV-P/44.m3u8
-
-#EXTINF:-1 group-title="Premium Movies",HBO
-http://202.163.117.6:9981/stream/channelid/1860181278
-
-#EXTINF:-1 group-title="Premium Movies",HBO
-http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
- 
-#EXTINF:-1 group-title="Premium Movies", HBO Family
-http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
-
-#EXTINF:-1 group-title="Premium Movies", HBO Family Movie
-http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
-
-#EXTINF:-1 group-title="Premium Movies", HBO Signature
-http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
- 
-  
-
- 
-
-
-
-
-
-
-
-
-
- 
- 
-
-#EXTINF:-1 group-title="Entertainment",ET
-https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw-can/desktop/cbslocal
-#EXTINF:-1 group-title="Entertainment",Zee E
-http://iptv.kitv.live:1935/live/Shari/MTV-P/73.m3u8
-
-#EXTINF:-1 group-title="Entertainment",AXN
-http://iptv.kitv.live:1935/live/Shari/MTV-P/42.m3u8
-
-#EXTINF:-1 group-title="Entertainment",AXN
+#EXTINF:-1,AXN
 http://136.243.177.164/AXN/playlist.m3u8
 
-#EXTINF:-1 group-title="Entertainment",AXN
-http://210.210.155.35/session/e5323d28-7da5-11ea-bd41-b82a72d63267/uq2663/h/h141/02.m3u8  
- 
-#EXTINF:-1 group-title="Entertainment",Buzzr
-https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8
+#EXTINF:-1,AXN
+http://210.210.155.35/session/e5323d28-7da5-11ea-bd41-b82a72d63267/uq2663/h/h141/02.m3u8
 
-#EXTINF:-1 group-title="Entertainment",Blaze TV
+#EXTINF:-1,Blaze TV
 https://theblaze4.akamaized.net/hls/live//699982/theblaze/cm-dvr/master.m3u8
 
-#EXTINF:-1 group-title="Entertainment",Comedy Central
-http://202.163.117.6:9981/stream/channelid/642795655
-
-#EXTINF:-1 group-title="Entertainment",Travel
-http://iptv.kitv.live:1935/live/Shari/MTV-P/23.m3u8    
-
-#EXTINF:-1 group-title="Entertainment",TLC
-http://iptv.kitv.live:1935/live/Shari/MTV-P/45.m3u8
-
-#EXTINF:-1 group-title="Entertainment",BBC Life
-http://iptv.kitv.live:1935/live/Shari/MTV-P/46.m3u8
- 
-#EXTINF:-1 group-title="Entertainment", Beach TV
+#EXTINF:-1,Beach TV
 http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment", Beach TV 2
+
+#EXTINF:-1,Beach TV 2
 http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
-#EXTINF:-1 group-title="Entertainment", Beach TV 3
+
+#EXTINF:-1,Beach TV 3
 http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 
- 
-#EXTINF:-1 group-title="Entertainment", AFV
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1,Alee TV
+https://a.jsrdn.com/broadcast/256ad9e679/+0000/low/c.m3u8
 
-#EXTINF:-1 group-title="Entertainment",Alee TV
-https://a.jsrdn.com/broadcast/256ad9e679/+0000/low/c.m3u8 
-
-#EXTINF:-1 group-title="Entertainment",Field
+#EXTINF:-1,Field
 https://a.jsrdn.com/broadcast/7536b84786/+0000/low/c.m3u8
 
-#EXTINF:-1 group-title="Entertainment",Teen Mom
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca68a4737b88b269472f1be/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
- 
- 
- 
-
-
-#EXTINF:-1 group-title="Entertainment", One
+#EXTINF:-1,One
 https://ch.iptvmate.net/f5d063ba7b6f6a5acbb3dd649ecf38d8.m3u8
 
-#EXTINF:-1 group-title="Entertainment", One
+#EXTINF:-1,One
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
 
-#EXTINF:-1 group-title="Entertainment", One
+#EXTINF:-1,One
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 
-
-
-#EXTINF:-1 group-title="Entertainment", Blue Ant Ent
+#EXTINF:-1,Blue Ant Ent
 http://210.210.155.35/dr9445/h/h16/index.m3u8
 
-#EXTINF:-1 group-title="Entertainment", Blue Ant Ent
+#EXTINF:-1,Blue Ant Ent
 http://210.210.155.35:80/session/64482514-73b6-11e9-aa69-b31e84bc1f0f/dr9445/h/h16/01.m3u8
 
-
-
-#EXTINF:-1 group-title="Entertainment",Blue Ant Extreem
+#EXTINF:-1,Blue Ant Extreem
 http://45.126.83.51/session/a94102b0-49ec-11e9-81ff-afe5b7d8581f/dr9445/h/h15/01.m3u8
 
-#EXTINF:-1 group-title="Entertainment",Style
+#EXTINF:-1,Style
 http://rr.dens.tv/h/h01/index2.m3u8
 
- 
-#EXTINF:-1 group-title="Entertainment",HD Fashion
+#EXTINF:-1,HD Fashion
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
- 
-#EXTINF:-1 group-title="Entertainment",Fashion Channel
+
+#EXTINF:-1,Fashion Channel
 https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
- 
- 
-#EXTINF:-1 group-title="Entertainment",Fashion TV PG16
+
+#EXTINF:-1,Fashion TV PG16
 http://80.94.54.42/fashiontv/stream/playlist.m3u8
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
 
-
-#EXTINF:-1 group-title="Entertainment",Fashion TV Paris
+#EXTINF:-1,Fashion TV Paris
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8?xtreamiptv.m3u8
 
-#EXTINF:-1 group-title="Entertainment",Fashion TV  Midnite
+#EXTINF:-1,Fashion TV  Midnite
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
- 
-#EXTINF:-1 group-title="Entertainment",Jasmin
+
+#EXTINF:-1,Jasmin
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Entertainment",NTV
-http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8  
-  
-#EXTINF:-1 group-title="Entertainment",Diva
+#EXTINF:-1,NTV
+http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
+
+#EXTINF:-1,Diva
 http://rr.dens.tv/h/h11/index2.m3u8
 
-
-#EXTINF:-1 group-title="Entertainment",Netmax
-http://live.netmaxtv.com:8080/live/live/playlist.m3u8
-
-   
-#EXTINF:-1 group-title="Entertainment",Three
+#EXTINF:-1,Three
 http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
- 
-#EXTINF:-1 group-title="Entertainment",LTV
+
+#EXTINF:-1,LTV
 http://gov.leominster.tv/Pub/smil:Pub.smil/chunklist_w2036537178_b1344100_sleng_t64NzIwcA==.m3u8
- 
- 
 
-
-
-
-#EXTINF:-1 group-title="KNOWLEDGE", Pop Science
+#EXTINF:-1,Pop Science
 http://a.jsrdn.com/broadcast/447912f76b/+0000/low/c.m3u8
 
-#EXTINF:-1 group-title="KNOWLEDGE", Futurism
+#EXTINF:-1,Futurism
 https://dai.google.com/linear/hls/event/YakHdnr_RpyszducVuHOpQ/master.m3u8
 
-#EXTINF:-1 group-title="KNOWLEDGE", Techstorm
-https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(f4802587-5d0c-4181-a873-bf9de86cecf6)/manifest.mpd
-
-#EXTINF:-1 group-title="KNOWLEDGE",Fox Life
-https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
-
-#EXTINF:-1 group-title="KNOWLEDGE", Discovery
+#EXTINF:-1,Discovery
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist.m3u8
 
-#EXTINF:-1 group-title="KNOWLEDGE", Discovery Science
-http://streamitv.multitvsolution.in/idvo/discoversciencehindi_360p/index.m3u8
-
-#EXTINF:-1 group-title="KNOWLEDGE", Discovery
-http://iptv.kitv.live:1935/live/Shari/MTV-P/61.m3u8
-
-#EXTINF:-1 group-title="KNOWLEDGE", Discovery History
-http://m4.mio4ever.eu:8000/bahoztestt4567/hNBOfssQI8/22215
-#EXTINF:-1 group-title="KNOWLEDGE", Digi Animal World
-http://m4.mio4ever.eu:8000/bahoztestt4567/hNBOfssQI8/22233
-#EXTINF:-1 group-title="KNOWLEDGE", Davinci Learning
-http://m4.mio4ever.eu:8000/bahoztestt4567/hNBOfssQI8/22230
-
-#EXTINF:-1 group-title="KNOWLEDGE", Discovery Turbo
-http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
-
- 
-#EXTINF:-1 group-title="KNOWLEDGE", DMAX
+#EXTINF:-1,DMAX
 http://91.126.141.12:1935/live/discoverymax/playlist.m3u8
 
- 
-#EXTINF:-1 group-title="KNOWLEDGE",Super Yatch
-http://cdn.mobibase.com/hls/733/258_5000k/playlist.m3u8
- 
-#EXTINF:-1 group-title="KNOWLEDGE",100Automoto
+#EXTINF:-1,100Automoto
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 
-
-#EXTINF:-1 group-title="KNOWLEDGE", Nature
-http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/744
-
-#EXTINF:-1 group-title="KNOWLEDGE", Smash Explore
+#EXTINF:-1,Smash Explore
 http://s3.smashmalta.com:82/live/smash/smash/58.ts
 
-
-#EXTINF:-1 group-title="KNOWLEDGE", Animal Planet
-http://178.217.72.66:80/225.201.2.33/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="KNOWLEDGE", Animal Planet
-http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/899
-
-#EXTINF:-1 group-title="KNOWLEDGE", Animal Planet
-http://104.250.154.42:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8?auth=zarin:RJsKR
-
-#EXTINF:-1 group-title="KNOWLEDGE", Animal Planet
-http://live-ng-01.more.tv/hls/Animal_Planet_HD/index_1.m3u8
-
-#EXTINF:-1 group-title="KNOWLEDGE", Nat Geo Wild
-http://m4.mio4ever.eu:8000/bahoztestt4567/hNBOfssQI8/21988
-
-#EXTINF:-1 group-title="KNOWLEDGE", Nat Geo Wild
-http://pn.playtv-ott.com:5000/sourcefhdp1/KeVgOKJces/99995148
-
-#EXTINF:-1 group-title="KNOWLEDGE", Nat Geo Wild
-http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/841
-
-#EXTINF:-1 group-title="KNOWLEDGE", Nat Geo
+#EXTINF:-1,Nat Geo
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?adtv
-http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/842
 
-#EXTINF:-1 group-title="KNOWLEDGE",CGTN Documentary
+#EXTINF:-1,CGTN Documentary
 http://210.210.155.35/qwr9ew/s/s20/01.m3u8
-  
-#EXTINF:-1 group-title="KNOWLEDGE",BBC Earth
-http://iptv.kitv.live:1935/live/Shari/MTV-P/62.m3u8
 
-#EXTINF:-1 group-title="KNOWLEDGE",BBC Earth
-http://202.163.117.6:9981/stream/channelid/811848655 
-
-#EXTINF:-1 group-title="KNOWLEDGE",BBC Earth
-http://goldiptv24.com:8080/alikacmaz5/OSC7V3zLS5/133
- 
-#EXTINF:-1 group-title="KNOWLEDGE",AKC
+#EXTINF:-1,AKC
 https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE",AKC Puppy
+
+#EXTINF:-1,AKC Puppy
 https://video.blivenyc.com/broadcast/prod/2061/29/file-4692k.m3u8
 
-
- 
-
-
- 
-
-
-#EXTINF:-1 group-title="KNOWLEDGE",FR Crime
+#EXTINF:-1,FR Crime
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
- 
 
- 
-#EXTINF:-1 group-title="KNOWLEDGE",RTD
+#EXTINF:-1,RTD
 https://rt-doc.secure.footprint.net/1101.m3u8
- 
-#EXTINF:-1 group-title="KNOWLEDGE",Docurama
+
+#EXTINF:-1,Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
 
+#EXTINF:-1,Smash Food
+http://s3.smashmalta.com:82/live/smash/smash/16.ts
 
-#EXTINF:-1 group-title="KNOWLEDGE",My Cuisine 
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/815
-
-
-#EXTINF:-1 group-title="KNOWLEDGE",24 kitchen
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/814
-  
-#EXTINF:-1 group-title="KNOWLEDGE",Food Channel
-http://95.86.32.7:999/food
-
-#EXTINF:-1 group-title="KNOWLEDGE",Food Network 
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/817
-
-#EXTINF:-1 group-title="KNOWLEDGE",AFC
-http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
-
-
-#EXTINF:-1 group-title="KNOWLEDGE",Smash Food
-http://s3.smashmalta.com:82/live/smash/smash/16.ts 
-
-#EXTINF:-1 group-title="KNOWLEDGE",Outdoor Cooking  
+#EXTINF:-1,Outdoor Cooking
 https://ch.iptvmate.net/11e118e202992ae500578c6f72bcf142.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 group-title="Kids",Cbeebies
-http://iptv.kitv.live:1935/live/Shari/MTV-P/67.m3u8
-
-#EXTINF:-1 group-title="Kids",Disney 
- http://iptv.kitv.live:1935/live/Shari/MTV-P/65.m3u8
-
-#EXTINF:-1 group-title="Kids",Nick
-http://176.10.117.3:5000/play/a04t/index.m3u8
- 
-#EXTINF:-1 group-title="Kids",Kids
+#EXTINF:-1,Kids
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
- 
- #EXTINF:-1 group-title="Kids", Rooster
- https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/playlist.m3u8
-  
-#EXTINF:-1 group-title="Kids",Kids TV
+
+#EXTINF:-1,Rooster
+https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/playlist.m3u8
+
+#EXTINF:-1,Kids TV
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 
-#EXTINF:-1 group-title="Kids",Cartoon Network
+#EXTINF:-1,Cartoon Network
 http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
 
-
-#EXTINF:-1 group-title="Kids",AniPlus
+#EXTINF:-1,AniPlus
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
 
-
- 
-#EXTINF:-1 group-title="Kids",Toonmax
+#EXTINF:-1,Toonmax
 http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
 
- 
-#EXTINF:-1 group-title="Kids", Sat Kids
+#EXTINF:-1,Sat Kids
 http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/playlist.m3u8
 
-
-#EXTINF:-1 group-title="Kids",Kuriakos Kids
+#EXTINF:-1,Kuriakos Kids
 http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 group-title="Kids",ToonMax
+#EXTINF:-1,ToonMax
 http://rr2.dens.tv/s/s50/01.m3u8
-#EXTINF:-1 group-title="Kids",Kurokoai Basketball
-http://aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_1200.m3u8
-#EXTINF:0 group-title="Kids",DRAGON BALL KAI TV
-http://ws.flv.nimo.tv/live/su1599512427624rcac6e81bb9277a4fe258348bcfa63c82_high.flv
-#EXTINF:0 group-title="Kids",DRAGON BALL Z TV
-https://ws.flv.nimo.tv/live/su1599512427558r464ce7577525c715f04419095ae6abeb_high.flv
-#EXTINF:0 group-title="Kids",Captain Stubasa 2019 TV
-http://ws.flv.nimo.tv/live/su1599512427630rb9a94d5f0fa60cec1044ec85fbd76da7_high.flv
-#EXTINF:0 group-title="Kids",DETECTIFE CONAN 1 TV
-http://ws.flv.nimo.tv/live/su1599512427577r176a7daa9302ccecdda91e18ea9be73e_high.flv
-#EXTINF:0 group-title="Kids",DETECTIFE CONAN 2 TV
-http://ws.flv.nimo.tv/live/su1599512427561r32f86ec41ff353df5fd649beb68e6388_high.flv
-#EXTINF:0 group-title="Kids",DETECTIFE CONAN 3 TV
-http://ws.flv.nimo.tv/live/su1599512427572re6b4d2bfbd968a965107eafabdad5184_high.flv
-#EXTINF:0 group-title="Kids",DORAEMON SERIES
-http://ws.flv.nimo.tv/live/su1599512427553r467469e0bc83c5de73f4d151682fb530_high.flv?fluxustv.flv
-#EXTINF:0 group-title="Kids",DORAEMON MOVIE
-http://ws.flv.nimo.tv/live/su1599512427578r00bac8d56488f6ca2d6915fb95ab88e8_high.flv?fluxustv.flv
-#EXTINF:0 group-title="Kids",HUNTER X HUNTER
-http://ws.flv.nimo.tv/live/su1599512427562r89436fcde4d4278fc2e87c8600d465e1_high.flv
-#EXTINF:0 group-title="Kids",INUYASHA
-http://ws.flv.nimo.tv/live/su1599512427565r2d969c0672b18115ac596b0bdea6e535_high.flv
-#EXTINF:0 group-title="Kids",TOTALLY SPIES
-http://ws.flv.nimo.tv/live/su1599512427585r47e5a2be5769b2ce776bc4a992c9f6fd_high.flv
-#EXTINF:0 group-title="Kids",ONE PIECE TV
-http://ws.flv.nimo.tv/live/su1599512427600r01fea2f56268e5a32e8e1d5c6dad7ede_high.flv
-#EXTINF:0 group-title="Kids",ONE PUNCH MAN
-http://ws.flv.nimo.tv/live/su1599512427559r6319ab6314a165d28a228bf5917d1fe0_high.flv
-#EXTINF:0 group-title="Kids",Tiji
-http://ott-cdn.ucom.am/s59/index.m3u8
-#EXTINF:0 group-title="Kids",Tuntunik
-http://ott-cdn.ucom.am/s46/index.m3u8
-#EXTINF:0 group-title="Kids",Greek kids
-http://wpso.com:1936/hls/kidshd.m3u8
-#EXTINF:0 group-title="Kids",Nimo TV
-http://ws.flv.nimo.tv/live/su1599512427615r0c4ed6161b23b4d2892824141e30f13b_high.flv
 
- 
- 
- 
- 
- 
- 
-#EXTINF:-1 group-title="Asia",K+
+#EXTINF:-1,Tiji
+http://ott-cdn.ucom.am/s59/index.m3u8
+
+#EXTINF:-1,Tuntunik
+http://ott-cdn.ucom.am/s46/index.m3u8
+
+#EXTINF:-1,Greek kids
+http://wpso.com:1936/hls/kidshd.m3u8
+
+#EXTINF:-1,K+
 http://210.210.155.35/uq2663/h/h08/index1.m3u8
 
- 
-#EXTINF:-1 group-title="Asia",K Drama
+#EXTINF:-1,K Drama
 http://210.210.155.35/session/50583bd2-e57e-11e8-8760-b82a72d63267/qwr9ew/s/s42/index2.m3u8
- 
-#EXTINF:-1 group-title="Asia",Sony Gem
-http://210.210.155.35/uq2663/h/h19/index1.m3u8
- 
-#EXTINF:-1 group-title="Asia",Sony One
-http://210.210.155.35/session/a3ebedb4-512d-11e9-bf37-c81f66f89318/uq2663/h/h143/index.m3u8
- 
-#EXTINF:-1 group-title="Asia",Chosun
-http://bit.ly/2CJNbDA
- 
-#EXTINF:-1 group-title="Asia",Arirang
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
- 
- 
-  
-#EXTINF:-1 group-title="Asia",Channel 5
-https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
- 
-#EXTINF:-1 group-title="Asia",Channel 8
-https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 
- 
-#EXTINF:-1 group-title="Asia",Dragon
+#EXTINF:-1,Sony One
+http://210.210.155.35/session/a3ebedb4-512d-11e9-bf37-c81f66f89318/uq2663/h/h143/index.m3u8
+
+#EXTINF:-1,Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1,Dragon
 http://rr2.dens.tv/s/s29/index.m3u8
- 
-  
-#EXTINF:-1 group-title="Asia",Macau
+
+#EXTINF:-1,Macau
 http://live4.tdm.com.mo:80/ch3/_definst_//ch3.live/playlist.m3u8
- 
-#EXTINF:-1 group-title="Asia",CCTV 4
+
+#EXTINF:-1,CCTV 4
 http://210.210.155.35/qwr9ew/s/s19/01.m3u8
- 
-#EXTINF:-1 group-title="Asia",CCTV 10
-http://cctvcnch5c.v.wscdns.com/live/cctv10_2/index.m3u8
- 
-#EXTINF:-1 group-title="Asia",unknown
+
+#EXTINF:-1,unknown
 http://rr2.dens.tv/s/s21/index.m3u8
- 
-    
-  
-#EXTINF:-1 group-title="Asia",ZEE Bioskop
+
+#EXTINF:-1,ZEE Bioskop
 http://rr2.dens.tv/s/s32/01.m3u8
- 
- #EXTINF:-1 group-title="Asia",Mirror Now
+
+#EXTINF:-1,Mirror Now
 http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
 
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Music",Foxmix
+#EXTINF:-1,Foxmix
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 
-#EXTINF:-1 group-title="Music", Smash Jazz
+#EXTINF:-1,Smash Jazz
 http://s3.smashmalta.com:82/live/smash/smash/11.ts
 
-#EXTINF:-1 group-title="Music", Smash Country
+#EXTINF:-1,Smash Country
 http://s3.smashmalta.com:82/live/smash/smash/13.ts
 
-#EXTINF:-1 group-title="Music",NRJ Hits
+#EXTINF:-1,NRJ Hits
 http://5be019f0d8c6e.streamlock.net:1935/ngroup/NRJHitsTV_720p/playlist.m3u8
 
-#EXTINF:-1 group-title="Music",RTL 1
-http://rtl-radio-stream-thron.akamaized.net/live-video/video3/video3/chunklist_b2296000.m3u8
-#EXTINF:-1 group-title="Music",RTL 2
-http://rtl-radio-stream-thron.akamaized.net/live-video/video1/video1/chunklist_b2296000.m3u8
-
-
-#EXTINF:-1 group-title="Music",Box Hits
+#EXTINF:-1,Box Hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 
-#EXTINF:-1 group-title="Music",Karaoke 
+#EXTINF:-1,Karaoke
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
 
-#EXTINF:-1 group-title="Music",M2O
+#EXTINF:-1,M2O
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
- 
-  
-#EXTINF:-1 group-title="Music",Music Top
+
+#EXTINF:-1,Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
- 
-#EXTINF:-1 group-title="Music",Carolina
+
+#EXTINF:-1,Carolina
 http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
- 
- 
-#EXTINF:-1 group-title="Music",CMC
+
+#EXTINF:-1,CMC
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8
- 
-   
-#EXTINF:-1 group-title="Music",B4U
-http://103.199.161.254:80/Content/B4Umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
- 
-  
-  
 
-#EXTINF:-1 group-title="Sport",Star Sport
-http://iptv.kitv.live:1935/live/Shari/MTV-P/51.m3u8
-#EXTINF:-1 group-title="Sport",Star Sport
-http://iptv.kitv.live:1935/live/Shari/MTV-P/53.m3u8
-#EXTINF:-1 group-title="Sport",Star Sport
-http://iptv.kitv.live:1935/live/Shari/MTV-P/52.m3u8
-
-#EXTINF:-1 group-title="Sport",All Sport
+#EXTINF:-1,All Sport
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
- 
-#EXTINF:-1 group-title="Sport",KBP
+
+#EXTINF:-1,KBP
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
-#EXTINF:-1 group-title="Sport",Bek 
+#EXTINF:-1,Bek
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 
-#EXTINF:-1 group-title="Sport",PTV 
+#EXTINF:-1,PTV
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
 
-#EXTINF:-1 group-title="Sport",Lax Sport
-https://snagfilms-lh.akamaihd.net/i/Laxsportsnetwork_1@322790/index_2800_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 group-title="Sport",Sport Kool
+#EXTINF:-1,Sport Kool
 https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
 
-#EXTINF:-1 group-title="Sport",Sport Max
+#EXTINF:-1,Sport Max
 http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
 
- #EXTINF:-1 group-title="Sport", Smash Sport
+#EXTINF:-1,Smash Sport
 http://s3.smashmalta.com:82/live/smash/smash/18.ts
 
-#EXTINF:-1 group-title="Sport",WTA
-http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
-https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
-
-#EXTINF:-1 group-title="Sport",One golf
-http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Sport",Eurosport 1
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/866
-http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/871
-#EXTINF:-1 group-title="Sport",Eurosport 1
-http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/871
-
-#EXTINF:-1 group-title="Sport",Eurosport 2
-http://tv4iptv.ddns.net:80/8795449375/d6Ts37W9jx9/867
-http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/870
-#EXTINF:-1 group-title="Sport",Fox Sport
-http://45.58.62.92:8080
-
-
-#EXTINF:-1 group-title="Sport",KIX
-http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
-
-http://streamxcode.ddns.net:25461/load/desiboyz150/3896.mpegts
-  
-#EXTINF:-1 group-title="Sport",Fight Sports
+#EXTINF:-1,Fight Sports
 http://rr.dens.tv/h/h05/index.m3u8
 
-#EXTINF:-1 group-title="Sport",Fight Time
-http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
-
-
- #EXTINF:-1 group-title="Sport",TVRI Sports 
+#EXTINF:-1,TVRI Sports
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
- 
-#EXTINF:-1 group-title="Sport",FS news
+
+#EXTINF:-1,FS news
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 
- 
-
-#EXTINF:-1 group-title="Sport",The X Corps
-http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
-
- 
- 
-#EXTINF:-1 group-title="Sport",RTH Sports
-http://79.106.48.2/live/rtsh_sport_ott_p2/playlist.m3u8
- 
-#EXTINF:-1 group-title="Sport",Olympic Channel
-http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8?fluxustv.m3u8
- 
-#EXTINF:-1 group-title="Sport",REDBULL TV
+#EXTINF:-1,REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
- 
- 
- 
-#EXTINF:-1 group-title="Sport",Real Madrid
-https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
- 
- 
-#EXTINF:-1 group-title="Sport",Setanta Sports
-http://ott-cdn.ucom.am/s81/03.m3u8
- 
- 
-#EXTINF:-1 group-title="Sport",D Sport
-http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 group-title="Sport",Racing
+#EXTINF:-1,Setanta Sports
+http://ott-cdn.ucom.am/s81/03.m3u8
+
+#EXTINF:-1,Racing
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index.m3u8
 
-#EXTINF:-1 group-title="Sport",Dubai Racing
+#EXTINF:-1,Dubai Racing
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8?fluxustv.m3u8
- 
- 
- 
 
-
-
-  
-
-
- 
-
- 
-#EXTINF:-1 group-title="News",Channel News Asia
+#EXTINF:-1,Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="News",Channel News Asia
-http://210.210.155.35/session/35be7296-7b7a-11e8-8077-c81f66f89318/uq2663/h/h29/01.m3u8
- 
 
-#EXTINF:-1 group-title="News",Newsmax
+#EXTINF:-1,Channel News Asia
+http://210.210.155.35/session/35be7296-7b7a-11e8-8077-c81f66f89318/uq2663/h/h29/01.m3u8
+
+#EXTINF:-1,Newsmax
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
- 
-#EXTINF:-1 group-title="News",CNN
+
+#EXTINF:-1,CNN
 http://ott-cdn.ucom.am/s27/index.m3u8
- 
- 
-#EXTINF:-1 group-title="News",BBC News
+
+#EXTINF:-1,BBC News
 http://ott-cdn.ucom.am/s24/index.m3u8
- 
-#EXTINF:-1 group-title="News",Bloomberg
+
+#EXTINF:-1,Bloomberg
 http://45.126.83.51/uq2663/h/h03/index2.m3u8
 
- #EXTINF:-1 group-title="News",Bloomberg
+#EXTINF:-1,Bloomberg
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
- 
-#EXTINF:-1 group-title="News",CNBC
+
+#EXTINF:-1,CNBC
 http://ott-cdn.ucom.am/s65/index.m3u8
- 
- 
-#EXTINF:-1 group-title="News",DW Channel
+
+#EXTINF:-1,DW Channel
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8?sd=10&rebase;=on
- 
- 
- 
-#EXTINF:-1 group-title="News",Jakarta Globe News
+
+#EXTINF:-1,Jakarta Globe News
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
- 
-#EXTINF:-1 group-title="News",Palestine Today
+
+#EXTINF:-1,Palestine Today
 http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
- 
-#EXTINF:-1 group-title="News",Sky News
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
- 
-#EXTINF:-1 group-title="News",Euro News
-http://210.210.155.35/session/dff6d9c0-7b79-11e8-810e-c81f66f89318/qwr9ew/s/s15/01.m3u8
- 
-#EXTINF:-1 group-title="News",NHK World
+
+#EXTINF:-1,NHK World
 http://210.210.155.35/uq2663/h/h23/index.m3u8
- 
- 
 
-
-
-
-
-
- 
-   
-#EXTINF:-1  group-title="Lokal" ,TVKU 
+#EXTINF:-1,TVKU
 http://103.30.1.14:8080/hls/live.m3u8
-#EXTINF:-1  group-title="Lokal" ,DAAI
+
+#EXTINF:-1,DAAI
 http://45.126.83.51/qwr9ew/s/s13/index2.m3u8
- 
-#EXTINF:-1 group-title="Lokal" ,Metro
+
+#EXTINF:-1,Metro
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
-
-#EXTINF:-1 group-title="Lokal" ,TV One 
-http://zaman-now.com/﻿zxtvxz﻿/TVONE  
-#EXTINF:-1 group-title="Lokal" ,MNC
-http://zaman-now.com/﻿zxtvxz﻿/MNC
-#EXTINF:-1 group-title="Lokal" ,NET TV
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
-http://45.126.83.51/qwr9ew/s/s08/01.m3u8
-#EXTINF:-1 group-title="Lokal" ,RTV
+#EXTINF:-1,RTV
 http://210.210.155.35/session/08fb7806-059c-11e9-9d77-c81f66f89318/qwr9ew/s/s12/01.m3u8
-  
-#EXTINF:-1 group-title="Lokal" ,My TV
+
+#EXTINF:-1,My TV
 https://dl.dropbox.com/s/qzl6jtxmhyoyovl/Mytv.m3u8?dl=0
 
-#EXTINF:-1  group-title="Lokal" ,My TV 
+#EXTINF:-1,My TV
 https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
 
-  
-
-#EXTINF:0 group-title="Lokal" ,Prambors
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(d38de229-8abc-4072-91d4-2c42935f7e3b)/manifest.mpd
-#EXTINF:-1 group-title="Lokal" ,Elshinta
+#EXTINF:-1,Elshinta
 http://45.126.83.51/qwr9ew/s/s10/01.m3u8
- 
-#EXTINF:-1 group-title="Lokal" ,Trans 7
+
+#EXTINF:-1,Trans 7
 http://210.210.155.35/qwr9ew/s/s101/01.m3u8
 
-#EXTINF:-1 group-title="Lokal" ,TVRI jkt
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8 
-#EXTINF:-1 group-title="Lokal" ,TVRI
+#EXTINF:-1,TVRI jkt
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
+
+#EXTINF:-1,TVRI
 http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
-http://45.126.83.51/qwr9ew/s/s11/01.m3u8
-  
-#EXTINF:-1 group-title="Lokal" ,Berita 1
+
+#EXTINF:-1,Berita 1
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
-#EXTINF:-1 group-title="Lokal" ,Berita 1
+
+#EXTINF:-1,Berita 1
 https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
-#EXTINF:-1 group-title="Lokal" ,Berita 1 World
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
-#EXTINF:-1 group-title="Lokal" ,CNN Indo
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-  
- 
- 
-#EXTINF:-1 group-title="Religion",Makkah
+
+#EXTINF:-1,Makkah
 http://45.126.83.51/qwr9ew/s/s28/index2.m3u8
- 
-#EXTINF:-1 group-title="Religion",Madinah
+
+#EXTINF:-1,Madinah
 http://210.210.155.35/qwr9ew/s/s27/01.m3u8
- 
- 
- 
-#EXTINF:-1 group-title="Religion", Aswaja
-http://stream.aswajadev.com:8081/liveas/stream/playlist.m3u8
- 
-#EXTINF:-1 group-title="Religion", Wesal
-http://119.235.249.60:1935/wesaltv/live/chunklist_w454796056.m3u8
- 
-#EXTINF:-1 group-title="Religion", Surau
-http://wowza60.indostreamserver.com:1935/surautv/live/playlist.m3u8
- 
-#EXTINF:-1 group-title="Religion", Tahfidz
-http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
- 
- 
- 
- 
- 
- 
- 
-  
-#EXTINF:-1 group-title="Religion",Reformed 21
+
+#EXTINF:-1,Reformed 21
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
- 
- 
-#EXTINF:-1 group-title="Religion",Daystar
-https://bcsecurelivehls-i.akamaihd.net/hls/live/621275/1539097700001/master_1080p.m3u8
- 
-#EXTINF:-1 group-title="Religion",Harvest
+
+#EXTINF:-1,Harvest
 http://live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
- 
-#EXTINF:-1 group-title="Religion",Omega
-http://sip-live.hds.adaptive.level3.net/hls-live/omega-omega/_definst_/live/stream1.m3u8
- 
- 
-#EXTINF:-1 group-title="Religion",Catholic
+
+#EXTINF:-1,Catholic
 http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/master.m3u8
- 
-#EXTINF:-1 group-title="Religion",ISN
+
+#EXTINF:-1,ISN
 http://cpdc101-lh.akamaihd.net/i/ISNCPDCMB1_1@314337/index_1728_av-p.m3u8
- 
-#EXTINF:-1 group-title="Religion",Better Life
+
+#EXTINF:-1,Better Life
 http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8
- 
-#EXTINF:-1 group-title="Religion",Better Health
+
+#EXTINF:-1,Better Health
 http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
- 
-#EXTINF:-1 group-title="Religion",Better Nature
+
+#EXTINF:-1,Better Nature
 http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
- 
- 
- 
- 
-  
- 
 
-
-
- 
-
- 
- 
-#EXTINF:-1 group-title=" Local Radio",Kamajaya  Jakarta  102.6  FM
+#EXTINF:-1,Kamajaya  Jakarta  102.6  FM
 http://live.camajayafm.com:8220/;stream.mp3
- 
-#EXTINF:-1 group-title=" Local Radio",Pelita Kasih (RPK)
+
+#EXTINF:-1,Pelita Kasih (RPK)
 http://rpkfm.indostreamserver.com:8028/;
- 
-#EXTINF:-1 group-title=" Local Radio",Pelita Kasih (RPK)
+
+#EXTINF:-1,Pelita Kasih (RPK)
 http://119.235.255.206:8030/;
- 
-#EXTINF:-1 group-title=" Local Radio",El Shadai   91.3FM
+
+#EXTINF:-1,El Shadai   91.3FM
 http://shaddai.onlivestreaming.net:9130/live
- 
-#EXTINF:-1 group-title=" Local Radio",Suara Gratia
-http://suaragratiafm.japanserver.info:8959/;
- 
-#EXTINF:-1 group-title=" Local Radio",Amsal
-http://server1.klikhost.com:7098/;
- 
-#EXTINF:-1 group-title=" Local Radio",Kidung Agung
+
+#EXTINF:-1,Kidung Agung
 http://u.klikhost.com:7120/;
- 
-#EXTINF:-1 group-title=" Local Radio",Mazmur
+
+#EXTINF:-1,Mazmur
 http://u.klikhost.com:7118/;
- 
-#EXTINF:-1 group-title=" Local Radio",Rhema SMG
-http://streaming.rhemaradio.com:5757/;
- 
-#EXTINF:-1 group-title=" Local Radio",EBS FM
-http://202.43.173.188:8100/;
- 
-#EXTINF:-1 group-title=" Local Radio",Sonora JKT
+
+#EXTINF:-1,Sonora JKT
 http://103.226.246.245/kompas-sonorajakarta
- 
-#EXTINF:-1 group-title=" Local Radio",City Radio   95.9FM
+
+#EXTINF:-1,City Radio   95.9FM
 http://streaming.cityradio.id:8000/cityradio.ogg
- 
-#EXTINF:-1 group-title=" Local Radio",Cosmopolitan   90.4FM
-http://cloudstreaming.mramedia.com:8002/live
- 
-  
-#EXTINF:-1 group-title=" Local Radio",Gajah Mada   102.4FM
+
+#EXTINF:-1,Gajah Mada   102.4FM
 http://gajahmada.i.streaming.id:8000/live
- 
-#EXTINF:-1 group-title=" Local Radio",Geronimo   106.1
+
+#EXTINF:-1,Geronimo   106.1
 http://live2.indostreamserver.com:8018/;
- 
-  
-#EXTINF:-1 group-title=" Local Radio",Global Radio Jakarta   88.4FM
+
+#EXTINF:-1,Global Radio Jakarta   88.4FM
 http://202.147.199.98/;
- 
-  
-#EXTINF:-1 group-title=" Local Radio",Kosmonita Malang   95.4FM
+
+#EXTINF:-1,Kosmonita Malang   95.4FM
 http://202.58.200.197:1055/live
- 
-  
-#EXTINF:-1 group-title=" Local Radio",Nagaswara Bogor
+
+#EXTINF:-1,Nagaswara Bogor
 http://bogor.nagaswarafm.com:8088/stream
- 
-#EXTINF:-1 group-title=" Local Radio",Female Radio
+
+#EXTINF:-1,Female Radio
 http://masima.rastream.com/masima-femaleradio
- 
-#EXTINF:-1 group-title=" Local Radio",Motion Radio Jakarta    97.5FM
+
+#EXTINF:-1,Motion Radio Jakarta    97.5FM
 http://103.226.246.245/kompas-motionjakarta
- 
-#EXTINF:-1 group-title=" Local Radio",Phoenix Bali   91.0FM
+
+#EXTINF:-1,Phoenix Bali   91.0FM
 http://50.97.122.58:8250/;stream.mp3
- 
-#EXTINF:-1 group-title=" Local Radio",Prambors
- 
+
+#EXTINF:-1,Prambors
 http://masima.rastream.com/masima-pramborssurabaya?
- 
- 
- 
-#EXTINF:-1 group-title=" Local Radio",Sindo Trijaya   104.6FM
+
+#EXTINF:-1,Sindo Trijaya   104.6FM
 http://202.147.199.101:8000/;
- 
-#EXTINF:-1 group-title=" Local Radio",SmartFM   95.9FM
-http://101.50.0.77:8000/smartfm.aac
- 
-#EXTINF:-1 group-title=" Local Radio",Sonora Surabaya   98.0FM
-http://stream.suararadio.com:8000/surabaya_sonorasurabaya_mono
- 
-#EXTINF:-1 group-title=" Local Radio",Wijaya Surabaya
+
+#EXTINF:-1,Wijaya Surabaya
 http://wijayafm.onlivestreaming.net:9880/stream
- 
-  
-  
-#EXTINF:-1 group-title=" Local Radio",V Radio Jakarta   106.6FM
+
+#EXTINF:-1,V Radio Jakarta   106.6FM
 http://202.147.199.100:8000/;
- 
 
-
-
-
-
-  
-#EXTINF:-1 group-title=" Intl Radio",Lite FM NY
+#EXTINF:-1,Lite FM NY
 http://c11.prod.playlists.ihrhls.com/1477/playlist.m3u8
 
-  
-#EXTINF:-1 group-title=" Intl Radio",Brandfort
+#EXTINF:-1,Brandfort
 http://149.56.147.197:8326/stream
 
-#EXTINF:-1 group-title=" Intl Radio",BBC Radio 1
+#EXTINF:-1,BBC Radio 1
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_one.m3u8
- 
-#EXTINF:-1 group-title=" Intl Radio",BBC Radio 2
+
+#EXTINF:-1,BBC Radio 2
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_two.m3u8
- 
-#EXTINF:-1 group-title=" Intl Radio",BBC Radio 3
+
+#EXTINF:-1,BBC Radio 3
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p
 
-#EXTINF:-1 group-title=" Intl Radio",BBC Radio 4
+#EXTINF:-1,BBC Radio 4
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_fourfm.m3u8
 
-#EXTINF:-1 group-title=" Intl Radio",BBC Radio 5
+#EXTINF:-1,BBC Radio 5
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_p
 
-#EXTINF:-1 group-title=" Intl Radio",BBC Radio 6
+#EXTINF:-1,BBC Radio 6
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p
 
-#EXTINF:-1 group-title=" Intl Radio", Heart London
+#EXTINF:-1,Heart London
 http://media-sov.musicradio.com:80/HeartLondonMP3
 
-#EXTINF:-1 group-title=" Intl Radio", Kiss London
-http://5.63.151.52:7038/stream
-
-#EXTINF:-1 group-title=" Intl Radio", Capital London
+#EXTINF:-1,Capital London
 http://media-sov.musicradio.com:80/CapitalMP3
 
-#EXTINF:-1 group-title=" Intl Radio",Mix Adelaide
-http://icy.arn.com.au/au_003_icy
-
-#EXTINF:-1 group-title=" Intl Radio",Nova Brisbane
+#EXTINF:-1,Nova Brisbane
 http://streaming.novaentertainment.com.au/nova1069
 
-#EXTINF:-1 group-title=" Intl Radio", Garden County Dublin
+#EXTINF:-1,Garden County Dublin
 http://5.63.151.52:7044/stream
 
-#EXTINF:-1 group-title=" Intl Radio",Classic Radio Swiss
+#EXTINF:-1,Classic Radio Swiss
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
- 
-#EXTINF:-1 group-title=" Intl Radio", Classic Radio Venice
-http://109.123.116.202:8020/stream
 
-#EXTINF:-1 group-title=" Intl Radio",Jazz
+#EXTINF:-1,Jazz
 http://stream.srg-ssr.ch/m/rsj/mp3_128
 
-#EXTINF:-1 group-title=" Intl Radio",ABC Jazz
+#EXTINF:-1,ABC Jazz
 http://abcradiolivehls-lh.akamaihd.net/i/abcjazz_1@327288/master.m3u8
 
-#EXTINF:-1 group-title=" Intl Radio",Smooth Jazz 
+#EXTINF:-1,Smooth Jazz
 http://144.217.153.67:80/live
 
-
-
-
-#EXTINF:-1 group-title=" Intl Radio",Radio paradise
+#EXTINF:-1,Radio paradise
 http://stream.radioparadise.com/mellow-flac
 
-#EXTINF:-1 group-title=" Intl Radio",Soft music danish
+#EXTINF:-1,Soft music danish
 http://onair.100fmlive.dk/soft_live.mp3
 
-#EXTINF:-1 group-title=" Intl Radio",Top 100
+#EXTINF:-1,Top 100
 http://onair.100fmlive.dk/100fm_live.mp3
