@@ -23,7 +23,7 @@ http://rr2.dens.tv/s/s32/01.m3u8
 http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
 #EXTINF:-1 group-title="Entertainment",BET Her
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51e6949ab8e2b35bdcaa9f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=175&deviceId=5d51e6949ab8e2b35bdcaa9f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 group-title="Entertainment",group-title="Entertainment"Celebrity Scene TV
+#EXTINF:-1 group-title="Entertainment",group-title="Entertainment", Celebrity Scene TV
 https://playout4multirtmp.tulix.tv/live8/Stream1/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",ET
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw-can/desktop/cbslocal
