@@ -1,4 +1,441 @@
 #EXTM3U
+
+#EXTINF:-1 group-title="Premium Movies",KKTV
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 ,One
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Premium Movies",Moviesphere
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Premium Movies",Action Movies
+https://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1,Fort TV 
+http://fort.co-works.org:8080/hls/live.stream.m3u8
+
+#EXTINF:-1,Groovy TV 
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+
+#EXTINF:-1 group-title="Premium Movies", Fantastic
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="Premium Movies",Hallmark Movies & More
+https://dqvu8d0acm4xt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/HallmarkMovies-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 group-title="Premium Movies",Romance Movies
+https://d2wkw6golvkrrh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb3600003ic-prod/amgholidaymovie/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 group-title="Premium Movies",CineLife
+https://magselect-stirr.amagi.tv/playlist720p.m3u8
+
+#EXTINF:-1 group-title="Premium Movies",STIRR Movies
+https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
+
+#EXTINF:-1,PTV Reaction
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/617b37b361e0fd0008cfd8c5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,PTV Comedy
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,PTV Drama
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,PTV Romance
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+
+#EXTINF:-1,Cinemax HD
+http://181.78.1.217:8146/play/a02g
+
+#EXTINF:-1,Celestial Classic 天映经典
+http://210.210.155.37/qwr9ew/s/s31/index.m3u8
+#EXTINF:-1,off
+http://redlabmcdn.s.llnwi.net/nv02/bs10hd/index.m3u8
+#EXTINF:-1,My Family Channel
+http://210.210.155.37/uq2663/h/h194/index.m3u8
+
+
+#EXTINF:-1,Xplore 
+http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
+
+
+#EXTINF:-1 ,off
+http://190.61.102.67:444/play/a06z
+#EXTINF:-1 ,Universal Cinema SD
+http://170.83.242.154:5350/play/a0kp
+#EXTINF:-1 ,Universal Premiere SD
+http://170.83.242.154:5350/play/a0ko
+#EXTINF:-1 ,Warner
+http://170.83.242.154:5350/play/a00q
+
+#EXTINF:-1,Showtime Selects
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f988934a507de00075d9ae7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,K-Pop
+https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+#EXTINF:-1,TV Land Drama
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d40bebc5e3d2750a2239d7e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,Central TV 
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF:-1,Chérie 25
+https://cherie25.nrjaudio.fm/hls/live/2038375/c25/FHD.m3u8
+
+#EXTINF:-1,Pink Comedy 
+http://93.87.44.242:1113/play/a4567
+#EXTINF:-1,Pink Romance 
+http://93.87.44.242:1113/play/a02h
+#EXTINF:-1,Red HD
+http://93.87.44.242:1113/play/a0i7
+#EXTINF:-1,celestial movie
+http://210.210.155.37/dr9445/h/h14/index.m3u8
+#EXTINF:-1,STAR CHANNEL HD
+http://181.78.1.217:8146/play/a04c
+#EXTINF:-1,Rock Ent
+http://210.210.155.37/dr9445/h/h16/index.m3u8
+#EXTINF:-1,Rock Action
+http://210.210.155.37/dr9445/h/h15/index.m3u8
+#EXTINF:-1,Inwonder
+https://inwonder-eng-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Action
+https://rakuten-action-8-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,off
+https://list.iptvcat.com/my_list/s/e06c914ee2f0303e76a85e1ebc8682fe.m3u8
+#EXTINF:-1,MBC 1
+https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTINF:-1,off
+http://200.59.184.111:5000/play/a0b8
+ 
+
+#EXTINF:-1,off
+http://200.59.184.111:5000/play/a0b9
+#EXTINF:-1,off
+http://200.59.184.111:5000/play/a0fz
+
+#EXTINF:-1,off
+http://202.125.144.115:8000/play/a004/index.m3u8
+
+#EXTINF:-1 ,Celestial Movies
+http://210.210.155.35/dr9445/h/h14/index.m3u8
+#EXTINF:-1 ,HITS
+http://210.210.155.35/dr9445/h/h37/index.m3u8
+#EXTINF:-1 ,My Cinema Asia
+http://210.210.155.35/uq2663/h/h193/index.m3u8
+#EXTINF:-1 ,My Family Channel
+http://210.210.155.35/uq2663/h/h194/index.m3u8
+
+#EXTINF:-1 ,tvN Movies
+http://210.210.155.37/dr9445/h/h21/index.m3u8
+
+#EXTINF:-1 ,My Kidz
+http://210.210.155.37/uq2663/h/h191/index.m3u8
+
+#EXTINF:-1 ,STIRR Electric Now
+https://dai.google.com/linear/hls/event/KsvJAc81Qoewj6opYso6Fw/master.m3u8
+#EXTINF:-1 ,STIRR Comet
+https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
+#EXTINF:-1 ,STIRR Popstar! TV
+https://dai.google.com/linear/hls/event/cJFuxTLzQUqbGGrqTMBJuw/master.m3u8
+
+
+#EXTINF:-1 group-title="Premium Movies",<off>
+http://rr1.dens.tv/h/h16/index10.m3u8
+#EXTINF:-1,<off>
+http://45.126.83.51/dr9445/h/h16/index.m3u8
+#EXTINF:-1 group-title="Premium Movies",<off>
+http://rr1.dens.tv/h/h15/index10.m3u8
+#EXTINF:-1,<off>
+http://45.126.83.51/dr9445/h/h15/index.m3u8
+
+#EXTINF:-1 group-title="Premium Movies",Action Movies
+https://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1 group-title="Premium Movies",Black Cinema
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=80&deviceId=58af4c093a41ca9d4ecabe96&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="Premium Movies",Black Ink Crew
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51e2bceca5b4b2c0e06c50/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=285&deviceId=5d51e2bceca5b4b2c0e06c50&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="Premium Movies",Hallmark Movies & Mysteries
+https://bit.ly/HallmarkMoviesMore?/playlist.m3u8
+
+#EXTINF:-1 group-title="Premium Movies",<off>
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dc039c65b56d0000945af0e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="Premium Movies", Fantastic
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Premium Movies",WoW
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1 group-title="Premium Movies",KIX
+http://rr1.dens.tv/h/h07/index.m3u8
+#EXTINF:-1 group-title="Premium Movies",<off>
+http://playlist.urfan.web.id/dr9445/h/h07/01.m3u8
+#EXTINF:-1 group-title="Premium Movies",<off>
+http://playlist.urfan.web.id/dr9445/h/h14/01.m3u8
+#EXTINF:-1 group-title="Premium Movies",Celestial Movies
+http://rr1.dens.tv/h/h14/index.m3u8
+#EXTINF:-1 group-title="Premium Movies", K.MOVIES
+https://newidco-newmovies-1-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Premium Movies",<off>
+https://ac-samsung-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Premium Movies",<off>
+http://rr1.dens.tv/h/h141/index.m3u8
+#EXTINF:-1 group-title="Premium Movies",My Cinema
+http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+#EXTINF:-1 group-title="Premium Movies",Cinema World
+http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/01.m3u8
+#EXTINF:-1 group-title="Premium Movies",Pluto
+https://stitcher.pluto.tv/stitch/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 group-title="Premium Movies",Thrill
+http://rr2.dens.tv/s/s34/index.m3u8
+#EXTINF:-1 group-title="Premium Movies",Haunt TV
+https://bamca-haunttv-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Premium Movies",Gunpowder Alter
+https://amg00219-gunpowder-alter-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Premium Movies", Fear This!
+https://linear-143.frequency.stream/dist/localnow/143/hls/master/playlist_1280x720.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="Premium Movies",HIT
+http://210.210.155.35/uq2663/h/h37/index2.m3u8
+#EXTINF:-1 group-title="Premium Movies",Baywatch
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d815eb889bca2ce7b746fdd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=142&deviceId=5d815eb889bca2ce7b746fdd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="Premium Movies",FR Classic Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="Entertainment",Just for Laughs
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd859/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 group-title="Entertainment",Cheaters
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/627d355aa95efd00077afcc7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="Entertainment",Comedy
+https://linear-89.frequency.stream/dist/localnow/89/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",BET Her
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51e6949ab8e2b35bdcaa9f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=175&deviceId=5d51e6949ab8e2b35bdcaa9f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 group-title="Entertainment",All Reality TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e82530945600e0007ca076c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="Entertainment",Dallas Cowboy Cheerleaders
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="Entertainment",Teen Mom
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6127e12ed140e900077e7b6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="Entertainment",The Weddings
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5877acecb16bb1e042ee453f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="Entertainment",Survivor
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f21e7b24744c60007c1f6fc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="Entertainment",The Challenge
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d48685da7e9f476aa8a1888/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="Entertainment",Blue Ant Ent
+http://210.210.155.35/dr9445/h/h16/index.m3u8
+#EXTINF:-1 group-title="Entertainment",Blue Ant Extreem
+http://210.210.155.35:80/dr9445/h/h15/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",The Design Network
+https://thedesignnetwork-pluto.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",Style
+http://rr.dens.tv/h/h01/index2.m3u8
+#EXTINF:-1 group-title="Entertainment",Fashion TV Paris
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 group-title="Entertainment",Rescue 911
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f21e831e9fe730007706acb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="Entertainment",Nosey
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5aec96ec5126c2157123c657/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="Entertainment",Wild 'N Out
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d48678d34ceb37d3c458a55/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+#EXTINF:-1 group-title="Entertainment",Netmax
+http://live.netmaxtv.com:8080/live/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment",TV Pranks
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f86f539f03cd00070c503a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="Entertainment",PTV Conspiracy
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d4ae94ef1a1bbb350ca41bb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="KNOWLEDGE",English Club TV
+http://iptv.prosto.tv:7000/ch206/video.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",Wonder
+https://lds-wonder-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",AWE Encore
+https://aweencore-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",Big Life TV
+https://biglife.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",Time Line
+https://lds-timeline-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",Real Families
+https://lds-realfamilies-samsunguau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",Real Stories
+https://lds-realstories-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",Caught In Providence
+https://amg00353-lionsgate-caughtinprovidence-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",court tv
+https://content.uplynk.com/channel/87c82188ea944bcb961c34236b9648b0.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",PTV Science
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="KNOWLEDGE",Discovery
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist.m3u8
+
+#EXTINF:-1 group-title="KNOWLEDGE",Nat Geo Channel
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",Curiosity
+https://curiosity-africa.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",SMITHSONIAN
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,Beyond Belief: Fact or Fiction
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/611f85396abc84000738417b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+#EXTINF:-1 group-title="KNOWLEDGE",Cats 24/7
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/599375885ceaac3cabccbed7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="KNOWLEDGE",Dogs 24/7
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b329e0a7b9d8872aeb49ceb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="KNOWLEDGE",InWild
+https://inwild-samsung-uk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="KNOWLEDGE",PTV Animals
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56b27f85ff3037045055037e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="KNOWLEDGE",Naturescape
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812bd9f249444e05d09cc4e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="KNOWLEDGE",love nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",Animals
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d767ae7b456c8cf265ce922/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=9015b970-057f-11eb-aeab-0242ac110002&deviceId=5d767ae7b456c8cf265ce922&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
+#EXTINF:-1 group-title="KNOWLEDGE",Animals+
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9b6f57ef2767e1846e59f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=b6f8a12a-554c-4970-82ca-4dc1f84a4016&deviceId=d548b050-1c0f-11eb-8801-b9710ba01352&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
+
+
+#EXTINF:-1 group-title="KNOWLEDGE",Wild Earth TV
+https://wildearth-adsfree-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",Nature Time
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",Wild Planet
+https://d3c7duantorcb1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/77466ab3-8e6b-497f-9bf9-7b20f2536a20/3.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="KNOWLEDGE",MotoSport TV
+https://alchimie-motosport-tv-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",Auto Motor Sport
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=c676a4b5-65d2-474a-b477-c04f8b88e727&deviceId=5f760c3d41aa2d0007bfde19&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
+#EXTINF:-1 group-title="KNOWLEDGE",CGTN Documentary
+http://210.210.155.35/qwr9ew/s/s20/01.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE", Fidotv
+https://dai.google.com/linear/hls/event/qd8D8TtbQ-2fFw5-1sZiWQ/master.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",Lucky Dog
+https://d2eb12ehm31yjp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LuckyDog2-prod/playlist.m3u8?ads.device_did={PSID}&ads.device_dnt={TARGETOPT}&ads.us_privacy=1YNY&ads.app_domain={APP_DOMAIN}&ads.app_name={APP_NAME}
+
+#EXTINF:-1 group-title="KNOWLEDGE", Dog Whisperer
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e453641239a700071f53a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="KNOWLEDGE",Caught-Up TV 
+https://webstreaming-3.viewmedia.tv/web_031/Stream/playlist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="KNOWLEDGE",CSI
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efbd29e4aa26700076c0d06/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=355&deviceId=5efbd29e4aa26700076c0d06&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="KNOWLEDGE",FR Crime
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",Food
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc280c9aa218c0009724b4b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=0734c282-0583-11eb-a18c-0242ac110002&deviceId=5dc280c9aa218c0009724b4b&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
+#EXTINF:-1 group-title="KNOWLEDGE",Food52
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",Gusto Food TV
+https://amg01077-gusto-gustous-distro.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",Bite Food Channel
+https://bite-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",Bon appetit
+https://bonappetit-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",iFood.tv
+https://ft-ifood-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",Bite
+https://parademedia-bite-distro.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",Tastemade
+https://tastemade-roku-can.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",BBC Food
+https://bit.ly/bbcfood_inspiration_m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",Hungry
+https://9bfce4d7d1834266b2953afe3deb1e8f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Hungry/playlist.m3u8?ads.wurl_channel=140&ads.wurl_name=Hungry&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+
+
+
+#EXTINF:-1 group-title="Kids",BratTV
+https://brat-tcl.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids",Giggle Zone
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22526d5eeee0f5a4094b8/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Kids",Country Boy Kids
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf225aed5eeee0f5a4094bd/playlist.m3u8
+#EXTINF:-1 group-title="Kids",Learning & Knowledge
+http://rr.dens.tv/h/h97/index.m3u8
+#EXTINF:-1 group-title="Kids",Biznet Kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+#EXTINF:-1 group-title="Kids",Moonbug Kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Kids",Sensical Kids TV
+https://sensical2up-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Kids",M Kids
+https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
+#EXTINF:-1 group-title="Kids",Moviedome Family
+https://kochmedia-moviedomefamily-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Kids",HappyKids Junior
+https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Kids",IGN
+https://ign-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids",Master Builder
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2256ed5eeee0f5a4094bb/playlist.m3u8
+#EXTINF:-1 group-title="Kids",Nick
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="Kids",Nick Jr
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="Kids",ABC Kids
+https://c.mjh.nz/101002210224/
+#EXTINF:-1 group-title="Kids",Pluto TV Kids
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=989&deviceId=51c75f7bb6f26ba1cd00002f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="Kids",CocoRo
+https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids",Anime All Day
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=830&deviceId=5812b7d3249444e05d09cc49&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 group-title="Kids",Rooster
+https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/playlist.m3u8
+#EXTINF:-1 group-title="Kids",Kids TV
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+#EXTINF:-1 group-title="Kids",AniPlus
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+#EXTINF:-1 group-title="Kids",Toonmax
+http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
+#EXTINF:-1 group-title="Kids",ToonMax
+http://rr2.dens.tv/s/s50/01.m3u8
+
+
+
 #EXTINF:-1 group-title="Asia",K+
 http://210.210.155.35/uq2663/h/h08/index1.m3u8
 #EXTINF:-1 group-title="Asia",K Drama
@@ -7,82 +444,289 @@ http://210.210.155.35/session/50583bd2-e57e-11e8-8760-b82a72d63267/qwr9ew/s/s42/
 http://210.210.155.35/session/a3ebedb4-512d-11e9-bf37-c81f66f89318/uq2663/h/h143/index.m3u8
 #EXTINF:-1 group-title="Asia",Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="Asia",Dragon
-http://rr2.dens.tv/s/s29/index.m3u8
 #EXTINF:-1 group-title="Asia",Macau
 http://live4.tdm.com.mo:80/ch3/_definst_//ch3.live/playlist.m3u8
 #EXTINF:-1 group-title="Asia",CCTV 4
 http://210.210.155.35/qwr9ew/s/s19/01.m3u8
-#EXTINF:-1 group-title="Asia",CCTV 10
-http://cctvcnch5c.v.wscdns.com/live/cctv10_2/index.m3u8
-#EXTINF:-1 group-title="Asia",unknown
-http://rr2.dens.tv/s/s21/index.m3u8
-#EXTINF:-1 group-title="Asia",ZEE Bioskop
-http://rr2.dens.tv/s/s32/01.m3u8
-#EXTINF:-1 group-title="Asia",Mirror Now
-http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
-#EXTINF:-1 group-title="Entertainment",BET Her
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51e6949ab8e2b35bdcaa9f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=175&deviceId=5d51e6949ab8e2b35bdcaa9f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 group-title="Entertainment", Celebrity Scene TV
-https://playout4multirtmp.tulix.tv/live8/Stream1/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment",ET
-https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw-can/desktop/cbslocal
-#EXTINF:-1 group-title="Entertainment",Zee E
-http://iptv.kitv.live:1935/live/Shari/MTV-P/73.m3u8
-#EXTINF:-1 group-title="Entertainment",AXN
-http://iptv.kitv.live:1935/live/Shari/MTV-P/42.m3u8
-#EXTINF:-1 group-title="Entertainment",AXN
-http://210.210.155.35/session/e5323d28-7da5-11ea-bd41-b82a72d63267/uq2663/h/h141/02.m3u8
-#EXTINF:-1 group-title="Entertainment",Blaze TV
-https://theblaze4.akamaized.net/hls/live//699982/theblaze/cm-dvr/master.m3u8
-#EXTINF:-1 group-title="Entertainment",Travel
-http://iptv.kitv.live:1935/live/Shari/MTV-P/23.m3u8
-#EXTINF:-1 group-title="Entertainment",TLC
-http://iptv.kitv.live:1935/live/Shari/MTV-P/45.m3u8
-#EXTINF:-1 group-title="Entertainment",BBC Life
-http://iptv.kitv.live:1935/live/Shari/MTV-P/46.m3u8
-#EXTINF:-1 group-title="Entertainment",Beach TV
-http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment",Beach TV 2
-http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
-#EXTINF:-1 group-title="Entertainment",Beach TV 3
-http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment",AFV
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 group-title="Entertainment",Alee TV
-https://a.jsrdn.com/broadcast/256ad9e679/+0000/low/c.m3u8
-#EXTINF:-1 group-title="Entertainment",Field
-https://a.jsrdn.com/broadcast/7536b84786/+0000/low/c.m3u8
-#EXTINF:-1 group-title="Entertainment",One
-https://ch.iptvmate.net/f5d063ba7b6f6a5acbb3dd649ecf38d8.m3u8
-#EXTINF:-1 group-title="Entertainment",One
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
-#EXTINF:-1 group-title="Entertainment",One
-https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment",Blue Ant Ent
-http://210.210.155.35/dr9445/h/h16/index.m3u8
-#EXTINF:-1 group-title="Entertainment",Blue Ant Extreem
-http://45.126.83.51/session/a94102b0-49ec-11e9-81ff-afe5b7d8581f/dr9445/h/h15/01.m3u8
-#EXTINF:-1 group-title="Entertainment",Style
-http://rr.dens.tv/h/h01/index2.m3u8
-#EXTINF:-1 group-title="Entertainment",HD Fashion
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 group-title="Entertainment",Fashion TV Paris
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 group-title="Entertainment",Fashion TV  Midnite
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 group-title="Entertainment",Jasmin
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment",Diva
-http://rr.dens.tv/h/h11/index2.m3u8
-#EXTINF:-1 group-title="Entertainment",Netmax
-http://live.netmaxtv.com:8080/live/live/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment",Three
-http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
-#EXTINF:-1 group-title="Entertainment",LTV
-http://gov.leominster.tv/Pub/smil:Pub.smil/chunklist_w2036537178_b1344100_sleng_t64NzIwcA==.m3u8
-#EXTINF:-1 group-title="Intl Radio",Brandfort
-http://149.56.147.197:8326/stream
+
+
+
+#EXTINF:-1 group-title="Music",Greatest Hits
+https://ott-linear-channels.stingray.com/hls/stirr/155.m3u8
+#EXTINF:-1 group-title="Music",Hit List
+https://ott-linear-channels.stingray.com/hls/stirr/107.m3u8
+#EXTINF:-1 group-title="Music",Pop Adult
+https://ott-linear-channels.stingray.com/hls/stirr/104.m3u8
+#EXTINF:-1 group-title="Music",Hot Country
+https://ott-linear-channels.stingray.com/hls/stirr/108.m3u8
+#EXTINF:-1 group-title="Music",Today's Latin Pop
+https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
+
+
+#EXTINF:-1 group-title="Music",Box Hits
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
+#EXTINF:-1 group-title="Music",1HD Music Television 
+https://sc.id-tv.kz/1hd.m3u8
+#EXTINF:-1 group-title="Music",Mola Hits
+http://ventdelnord.tv:8080/mola/directe.m3u8
+
+#EXTINF:-1,K-Pop
+https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+#EXTINF:-1 group-title="Music",Foxmix
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+
+#EXTINF:-1 group-title="Music",MTV Classic
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+#EXTINF:-1 group-title="Music",MTV Pop
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1 group-title="Music",MTV Club
+http://89.254.128.5:22280/club_mtv/video.m3u8
+#EXTINF:-1 group-title="Music",MTV WMA
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+
+#EXTINF:-1 group-title="Music",Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+
+
+
+
+#EXTINF:-1 group-title="News",Fox Live
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="News",Atmosphere News
+https://atmosphere-atmosphere-news.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="News",NBC News NOW
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df97894467dfa00091c873c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="News",60 Minutes
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb321ee99fac0008c9ab8a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="News",Sky News
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/55b285cd2665de274553d66f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="News",Newsmax
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/55b179af994403942f3061d6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="News",Bloomberg
+http://45.126.83.51/uq2663/h/h03/index2.m3u8
+#EXTINF:-1 group-title="News",NHK World
+http://210.210.155.35/uq2663/h/h23/index.m3u8
+#EXTINF:-1 group-title="News", CNN
+http://89.254.128.5:22280/cnn/video.m3u8
+#EXTINF:-1 group-title="News",Bloomberg
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 group-title="News",Fox News Now
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="News",WION 
+https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/index.m3u8
+
+
+#EXTINF:-1 group-title="Religion",Makkah
+http://45.126.83.51/qwr9ew/s/s28/index2.m3u8
+#EXTINF:-1 group-title="Religion",Madinah
+http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+#EXTINF:-1 group-title="Religion",Harvest
+http://live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Religion",Better Life
+http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8
+#EXTINF:-1 group-title="Religion",Better Health
+http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
+#EXTINF:-1 group-title="Religion",Better Nature
+http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Sport",Billiard TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/BILLIARDTV_SCTE.m3u8
+#EXTINF:-1 group-title="Sport",Bein Sports 1
+http://213.7.193.54:4000/play/a002/index.m3u8
+#EXTINF:-1 group-title="Sport",Bein Sports 1
+http://localiptv62000.from-ok.com:9000/live:domeneprojekat/gzliiQzDPI/93
+#EXTINF:-1 group-title="Sport",Bein Sports 2
+http://localiptv62000.from-ok.com:9000/live:domeneprojekat/gzliiQzDPI/94
+#EXTINF:-1 group-title="Sport",beIN SPORTS XTRA
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="Sport",Bellator MMA
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=730&deviceId=5ebc8688f3697d00072f7cf8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 group-title="Sport",Bek
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+#EXTINF:-1 group-title="Sport",One golf
+http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sport",Fight Sports
+http://rr.dens.tv/h/h05/index.m3u8
+#EXTINF:-1 group-title="Sport",TVRI Sports
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="Sport",REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 group-title="Lokal",DAAI
+http://45.126.83.51/qwr9ew/s/s13/index2.m3u8
+#EXTINF:-1 group-title="Lokal",Elshinta
+http://45.126.83.51/qwr9ew/s/s10/01.m3u8
+#EXTINF:-1 group-title="Lokal",Berita 1
+https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
+#EXTINF:-1 group-title="Lokal",Indosiar
+http://rr2.dens.tv/s/s04/index.m3u8
+#EXTINF:-1 group-title="Lokal",SCTV
+http://rr2.dens.tv/s/s03/index.m3u8
+#EXTINF:-1 group-title="Lokal",Metro TV
+http://rr.dens.tv/h/h12/index.m3u8
+#EXTINF:-1 group-title="Lokal",TV One
+http://rr2.dens.tv/s/s105/index3.m3u8
+#EXTINF:-1 group-title="Lokal",Trans TV
+http://rr2.dens.tv/s/s05/index.m3u8
+#EXTINF:-1 group-title="Lokal",NET TV
+http://rr2.dens.tv/s/s08/index10.m3u8
+#EXTINF:-1 group-title="Lokal",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
+#EXTINF:-1 group-title="Lokal",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
+#EXTINF:-1 group-title="Lokal",The Indonesia Channel
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
+#EXTINF:-1 group-title="Lokal",JTV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/index.m3u8
+#EXTINF:-1 group-title="Local Radio",Maria Medan
+https://dreamsiteradiocp2.com/proxy/rmindonesia2?mp=/stream
+#EXTINF:-1 group-title="Local Radio",RPK Jkt
+http://live.indostreamserver.com:8030/;
+#EXTINF:-1 group-title="Local Radio",Sangkakala Sby
+http://radiosangkakala.alucio.net.id:7777/;
+#EXTINF:-1 group-title="Local Radio",Sejahtera Mlg
+https://ssg.streamingmurah.com:8094/stream
+#EXTINF:-1 group-title="Local Radio",Suara Gratia Bandung
+http://suaragratiafm.japanserver.info:8959/;
+#EXTINF:-1 group-title="Local Radio",El Shadai   91.3FM
+http://shaddai.onlivestreaming.net:9130/live
+#EXTINF:-1 group-title="Local Radio",City Radio   95.9FM
+http://streaming.cityradio.id:8000/cityradio.ogg
+#EXTINF:-1 group-title="Local Radio",Mandarin Jkt
+http://live.indostreamserver.com:8052/;
+
+#EXTINF:-1 group-title="Local Radio",Gajah Mada   102.4FM
+http://gajahmada.i.streaming.id:8000/live
+#EXTINF:-1 group-title="Local Radio",Global Radio Jakarta   88.4FM
+http://202.147.199.98/;
+#EXTINF:-1 group-title="Local Radio",Nagaswara Bogor
+http://bogor.nagaswarafm.com:8088/stream
+#EXTINF:-1 group-title="Local Radio",Sindo Trijaya   104.6FM
+http://202.147.199.101:8000/;
+#EXTINF:-1 group-title="Local Radio",Wijaya Surabaya
+http://wijayafm.onlivestreaming.net:9880/stream
+#EXTINF:-1 group-title="Local Radio",V Radio Jakarta   106.6FM
+http://202.147.199.100:8000/;
+#EXTINF:-1 group-title="Local Radio",Heartline JKT
+http://202.129.186.43:7010/;
+#EXTINF:-1 group-title="Local Radio",SSFM
+http://radiossfm.com:9000/;
+#EXTINF:-1 group-title="Local Radio",Trax Jkt
+https://stream.radiojar.com/rrqf78p3bnzuv
+#EXTINF:-1 group-title="Local Radio",C Radio JKT
+http://server.radioidola.com:7010/;
+#EXTINF:-1 group-title="Local Radio",Camajaya JKT
+http://live.camajayafm.com:8220/;
+#EXTINF:-1 group-title="Local Radio",Hard Rock Jkt
+https://stream.radiojar.com/7csmg90fuqruv
+
+#EXTINF:-1 group-title="Local Radio",Smooth Jkt
+https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
+#EXTINF:-1 group-title="Local Radio",Sonora Medan
+https://streamingv2.shoutcast.com/sonora-medan
+#EXTINF:-1 group-title="Local Radio",iRadio Medan
+https://stream.radiojar.com/hkuevehswk8uv
+#EXTINF:-1 group-title="Local Radio",Mutiara Medan
+http://u18.klikhost.com:7034/;
+#EXTINF:-1 group-title="Local Radio",Classy Padang
+http://stream.classyfm.co.id:1034/stream.mp3
+#EXTINF:-1 group-title="Local Radio",iRadio Jkt
+https://stream.radiojar.com/4ywdgup3bnzuv
+#EXTINF:-1 group-title="Local Radio",X Channel Jkt
+http://202.78.200.228:8002/stream
+#EXTINF:-1 group-title="Local Radio",ITB 86
+https://usa11.fastcast4u.com/proxy/radioitb86?mp=/1
+#EXTINF:-1 group-title="Local Radio",Trax Smg
+https://stream.radiojar.com/fr9zqhv80k8uv
+#EXTINF:-1 group-title="Local Radio",Imelda Smg
+http://45.76.150.63:8020/imeldafm
+#EXTINF:-1 group-title="Local Radio",Idola SMG
+https://server.radioidola.com:8880/idolamp3
+#EXTINF:-1 group-title="Local Radio",Thomson Jogja
+http://i.klikhost.com:8034/;
+#EXTINF:-1 group-title="Local Radio",Medan FM
+http://streaming.medanfm.id:9630/;
+#EXTINF:-1 group-title="Local Radio",Suara Surabaya
+https://c5.siar.us/proxy/ssfm/stream
+#EXTINF:-1 group-title="Local Radio",Merdeka FM SBY
+http://streaming.merdekafm.com:8020/;
+#EXTINF:-1 group-title="Local Radio",EBSFM Sby
+http://streaming.ebsfm.com:8100/;
+#EXTINF:-1 group-title="Local Radio",Mercury Sby
+https://svara-stream.radioddns.net:8443/surabaya_mercuryfm-aac
+#EXTINF:-1 group-title="Local Radio",Kosmonita Mlg
+http://202.58.200.26:1055/live
+#EXTINF:-1 group-title="Local Radio",RCBFM Mlg
+http://ici.streamingmurah.com:8028/;
+#EXTINF:-1 group-title="Local Radio",Elpas Bogor
+http://live.elpasfm.com:8888/elpasfm
+#EXTINF:-1 group-title="Local Radio",Paramuda Bandung
+http://115.178.48.43:9990/stream
+#EXTINF:-1 group-title="Local Radio",Elshinta Bandung
+http://202.137.4.147:8005/;
+#EXTINF:-1 group-title="Local Radio",OZ Bandung
+http://s4.vinhostmedia.com:1031/;
+#EXTINF:-1 group-title="Local Radio",Pinguin DPS
+http://sgp2.onlivestreaming.net:9730/stream
+#EXTINF:-1 group-title="Local Radio",Phoenis DPS
+https://live.phoenixradiobali.com:8250/phoenixradio
+#EXTINF:-1 group-title="Intl Radio",K Love USA
+http://maestro.emfcdn.com/stream_for/k-love/web/aac
+#EXTINF:-1 group-title="Intl Radio",FLR USA
+http://icecast.streammyflr.org/FLRstream
+#EXTINF:-1 group-title="Intl Radio",Family Life USA
+https://fln01.sslstream.com/fln-familylife-aac
+#EXTINF:-1 group-title="Intl Radio",iHeart 2000 US
+https://stream.revma.ihrhls.com/zc6850/hls.m3u8
+#EXTINF:-1 group-title="Intl Radio",iHeart Christian US
+https://stream.revma.ihrhls.com/zc4978/hls.m3u8
+#EXTINF:-1 group-title="Intl Radio",iHeart Xmas US
+https://stream.revma.ihrhls.com/zc4601
+#EXTINF:-1 group-title="Intl Radio",iHeart Top 40 US
+https://stream.revma.ihrhls.com/zc4802/hls.m3u8
+#EXTINF:-1 group-title="Intl Radio",iHeart Countdown US
+https://stream.revma.ihrhls.com/zc6455/hls.m3u8
+#EXTINF:-1 group-title="Intl Radio",iHeart Lite Rock US
+https://stream.revma.ihrhls.com/zc6830/hls.m3u8
+#EXTINF:-1 group-title="Intl Radio",iHeart Soft Rock US
+http://stream.revma.ihrhls.com/zc4414
+#EXTINF:-1 group-title="Intl Radio",iHeart Oldies US
+https://stream.revma.ihrhls.com/zc4717
+#EXTINF:-1 group-title="Intl Radio",iHeart Country US
+https://stream.revma.ihrhls.com/zc7014/hls.m3u8
+#EXTINF:-1 group-title="Intl Radio",KSRA Country US
+http://ice24.securenetsystems.net/KSRA
+#EXTINF:-1 group-title="Intl Radio",Heart FM Dubai
+https://funasia.streamguys1.com/live2
+#EXTINF:-1 group-title="Intl Radio",Caroline UK
+http://sc8.radiocaroline.net:8000/;
+#EXTINF:-1 group-title="Intl Radio",Heart UK
+https://media-ice.musicradio.com/HeartMiltonKeynes
+#EXTINF:-1 group-title="Intl Radio",Heart Romance UK
+http://anton.antfarm.co.za:8000/HeartFM.mp3
+#EXTINF:-1 group-title="Intl Radio",Smooth UK
+https://ice-sov.musicradio.com/SmoothEastMids
+#EXTINF:-1 group-title="Intl Radio",Heart Xmas UK
+https://media-ice.musicradio.com/HeartXmasMP3
+#EXTINF:-1 group-title="Intl Radio",Country Hits UK
+https://stream-al.planetradio.co.uk/countryhits.aac
+#EXTINF:-1 group-title="Intl Radio",Jazz UK
+http://46.10.150.243/jazz-fm-lounge.mp3
+#EXTINF:-1 group-title="Intl Radio",Virgin UK
+https://radio.virginradio.co.uk/stream
+#EXTINF:-1 group-title="Intl Radio",Premier Christian UK
+http://streams.radiomast.io/69203abc-1923-4c7a-bbd3-1e4d391a8cd9
+#EXTINF:-1 group-title="Intl Radio",Vision AUS
+https://streams2.vision.org.au/vision.mp3
+#EXTINF:-1 group-title="Intl Radio",Hit AUS
+https://legacy.scahw.com.au/4hit_32
+#EXTINF:-1 group-title="Intl Radio",Hope AUS
+https://stream2.cnmns.net/fresh
+#EXTINF:-1 group-title="Intl Radio",iHeart Country AUS
+https://ais-arn.streamguys1.com/au_027/playlist.m3u8
 #EXTINF:-1 group-title="Intl Radio",BBC Radio 1
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_one.m3u8
 #EXTINF:-1 group-title="Intl Radio",BBC Radio 2
@@ -95,310 +739,9 @@ http://media-sov.musicradio.com:80/HeartLondonMP3
 http://media-sov.musicradio.com:80/CapitalMP3
 #EXTINF:-1 group-title="Intl Radio",Nova Brisbane
 http://streaming.novaentertainment.com.au/nova1069
-#EXTINF:-1 group-title="Intl Radio",Garden County Dublin
-http://5.63.151.52:7044/stream
 #EXTINF:-1 group-title="Intl Radio",Classic Radio Swiss
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 #EXTINF:-1 group-title="Intl Radio",Jazz
 http://stream.srg-ssr.ch/m/rsj/mp3_128
-#EXTINF:-1 group-title="Intl Radio",ABC Jazz
-http://abcradiolivehls-lh.akamaihd.net/i/abcjazz_1@327288/master.m3u8
-#EXTINF:-1 group-title="Intl Radio",Smooth Jazz
-http://144.217.153.67:80/live
 #EXTINF:-1 group-title="Intl Radio",Radio paradise
 http://stream.radioparadise.com/mellow-flac
-#EXTINF:-1 group-title="Intl Radio",Soft music danish
-http://onair.100fmlive.dk/soft_live.mp3
-#EXTINF:-1 group-title="Intl Radio",Top 100
-http://onair.100fmlive.dk/100fm_live.mp3
-#EXTINF:-1 group-title="Kids",MBC 3
-https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
-#EXTINF:-1 group-title="Kids",Battery Pop
-https://nrpus.bozztv.com/36bay2/gusa-batterypop/index.m3u8
-#EXTINF:-1 group-title="Kids",CocoRo
-https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8
-#EXTINF:-1 group-title="Kids",Cbeebies
-http://iptv.kitv.live:1935/live/Shari/MTV-P/67.m3u8
-#EXTINF:-1 group-title="Kids",Film 4
-http://photocall.tv/lF4r/ftv.m3u8?ch=film4
-#EXTINF:-1 group-title="Kids",Anime All Day
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=830&deviceId=5812b7d3249444e05d09cc49&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 group-title="Kids",As a Child
-https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/playlist.m3u8
-#EXTINF:-1 group-title="Kids",Disney
-http://iptv.kitv.live:1935/live/Shari/MTV-P/65.m3u8
-#EXTINF:-1 group-title="Kids",Kids
-https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
-#EXTINF:-1 group-title="Kids",Rooster
-https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/playlist.m3u8
-#EXTINF:-1 group-title="Kids",Kids TV
-https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
-#EXTINF:-1 group-title="Kids",AniPlus
-http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
-#EXTINF:-1 group-title="Kids",Toonmax
-http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
-#EXTINF:-1 group-title="Kids",Sat Kids
-http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/playlist.m3u8
-#EXTINF:-1 group-title="Kids",Kuriakos Kids
-http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="Kids",ToonMax
-http://rr2.dens.tv/s/s50/01.m3u8
-#EXTINF:-1 group-title="Kids",Greek kids
-http://wpso.com:1936/hls/kidshd.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE",Pop Science
-http://a.jsrdn.com/broadcast/447912f76b/+0000/low/c.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE",Futurism
-https://dai.google.com/linear/hls/event/YakHdnr_RpyszducVuHOpQ/master.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE",Fun Zone
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625030145130f25474622/playlist.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE",Discovery
-https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE",Discovery
-http://iptv.kitv.live:1935/live/Shari/MTV-P/61.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE",Animals
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d767ae7b456c8cf265ce922/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=9015b970-057f-11eb-aeab-0242ac110002&deviceId=5d767ae7b456c8cf265ce922&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
-#EXTINF:-1 group-title="KNOWLEDGE",Animals+
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9b6f57ef2767e1846e59f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=b6f8a12a-554c-4970-82ca-4dc1f84a4016&deviceId=d548b050-1c0f-11eb-8801-b9710ba01352&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
-#EXTINF:-1 group-title="KNOWLEDGE",DMAX
-http://91.126.141.12:1935/live/discoverymax/playlist.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE",Automoto
-https://stitcheraws.unreel.me/wse-node04.powr.com/live/5bf220fad5eeee0f5a40941a/playlist.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE",Auto Motor Sport
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=c676a4b5-65d2-474a-b477-c04f8b88e727&deviceId=5f760c3d41aa2d0007bfde19&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
-#EXTINF:-1 group-title="KNOWLEDGE",Smash Explore
-http://s3.smashmalta.com:82/live/smash/smash/58.ts
-#EXTINF:-1 group-title="KNOWLEDGE",CGTN Documentary
-http://210.210.155.35/qwr9ew/s/s20/01.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE",AKC
-https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE",AKC Puppy
-https://video.blivenyc.com/broadcast/prod/2061/29/file-4692k.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE",Cats 24/7
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db6a56ce10f0b0009e64037/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=4f8f5d53-0580-11eb-8b9f-0242ac110002&deviceId=5db6a56ce10f0b0009e64037&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
-#EXTINF:-1 group-title="KNOWLEDGE",Crime + Investigation
-http://203.154.243.31:15001
-#EXTINF:-1 group-title="KNOWLEDGE",CSI
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efbd29e4aa26700076c0d06/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=355&deviceId=5efbd29e4aa26700076c0d06&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 group-title="KNOWLEDGE",FR Crime
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE",Court TV Mystery
-https://bozztv.com/teleyupp/teleup-mystery/playlist.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE",RTD
-https://rt-doc.secure.footprint.net/1101.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE",Docurama
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE",Food
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc280c9aa218c0009724b4b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=0734c282-0583-11eb-a18c-0242ac110002&deviceId=5dc280c9aa218c0009724b4b&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
-#EXTINF:-1 group-title="KNOWLEDGE",Food52
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE",Smash Food
-http://s3.smashmalta.com:82/live/smash/smash/16.ts
-#EXTINF:-1 group-title="KNOWLEDGE",Outdoor Cooking
-https://ch.iptvmate.net/11e118e202992ae500578c6f72bcf142.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="Local Radio",Kamajaya  Jakarta  102.6  FM
-http://live.camajayafm.com:8220/;stream.mp3
-#EXTINF:-1 group-title="Local Radio",Pelita Kasih (RPK)
-http://rpkfm.indostreamserver.com:8028/;
-#EXTINF:-1 group-title="Local Radio",Pelita Kasih (RPK)
-http://119.235.255.206:8030/;
-#EXTINF:-1 group-title="Local Radio",El Shadai   91.3FM
-http://shaddai.onlivestreaming.net:9130/live
-#EXTINF:-1 group-title="Local Radio",Kidung Agung
-http://u.klikhost.com:7120/;
-#EXTINF:-1 group-title="Local Radio",Mazmur
-http://u.klikhost.com:7118/;
-#EXTINF:-1 group-title="Local Radio",Sonora JKT
-http://103.226.246.245/kompas-sonorajakarta
-#EXTINF:-1 group-title="Local Radio",City Radio   95.9FM
-http://streaming.cityradio.id:8000/cityradio.ogg
-#EXTINF:-1 group-title="Local Radio",Gajah Mada   102.4FM
-http://gajahmada.i.streaming.id:8000/live
-#EXTINF:-1 group-title="Local Radio",Geronimo   106.1
-http://live2.indostreamserver.com:8018/;
-#EXTINF:-1 group-title="Local Radio",Global Radio Jakarta   88.4FM
-http://202.147.199.98/;
-#EXTINF:-1 group-title="Local Radio",Kosmonita Malang   95.4FM
-http://202.58.200.197:1055/live
-#EXTINF:-1 group-title="Local Radio",Nagaswara Bogor
-http://bogor.nagaswarafm.com:8088/stream
-#EXTINF:-1 group-title="Local Radio",Female Radio
-http://masima.rastream.com/masima-femaleradio
-#EXTINF:-1 group-title="Local Radio",Motion Radio Jakarta    97.5FM
-http://103.226.246.245/kompas-motionjakarta
-#EXTINF:-1 group-title="Local Radio",Prambors
-http://masima.rastream.com/masima-pramborssurabaya?
-#EXTINF:-1 group-title="Local Radio",Sindo Trijaya   104.6FM
-http://202.147.199.101:8000/;
-#EXTINF:-1 group-title="Local Radio",Wijaya Surabaya
-http://wijayafm.onlivestreaming.net:9880/stream
-#EXTINF:-1 group-title="Local Radio",V Radio Jakarta   106.6FM
-http://202.147.199.100:8000/;
-#EXTINF:-1 group-title="Lokal",TVKU
-http://103.30.1.14:8080/hls/live.m3u8
-#EXTINF:-1 group-title="Lokal",DAAI
-http://45.126.83.51/qwr9ew/s/s13/index2.m3u8
-#EXTINF:-1 group-title="Lokal",RTV
-http://210.210.155.35/session/08fb7806-059c-11e9-9d77-c81f66f89318/qwr9ew/s/s12/01.m3u8
-#EXTINF:-1 group-title="Lokal",My TV
-https://dl.dropbox.com/s/qzl6jtxmhyoyovl/Mytv.m3u8?dl=0
-#EXTINF:-1 group-title="Lokal",My TV
-https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
-#EXTINF:-1 group-title="Lokal",Elshinta
-http://45.126.83.51/qwr9ew/s/s10/01.m3u8
-#EXTINF:-1 group-title="Lokal",Trans 7
-http://210.210.155.35/qwr9ew/s/s101/01.m3u8
-#EXTINF:-1 group-title="Lokal",TVRI jkt
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
-#EXTINF:-1 group-title="Lokal",Berita 1
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
-#EXTINF:-1 group-title="Lokal",Berita 1
-https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
-#EXTINF:-1 group-title="Lokal",CNN Indo
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Music",Foxmix
-http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
-#EXTINF:-1 group-title="Music",Smash Jazz
-http://s3.smashmalta.com:82/live/smash/smash/11.ts
-#EXTINF:-1 group-title="Music",Smash Country
-http://s3.smashmalta.com:82/live/smash/smash/13.ts
-#EXTINF:-1 group-title="Music",Box Hits
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
-#EXTINF:-1 group-title="Music",M2O
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:-1 group-title="Music",Music Top
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
-#EXTINF:-1 group-title="Music",Carolina
-http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Music",CMC
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8
-#EXTINF:-1 group-title="News",Channel News Asia
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="News",Channel News Asia
-http://210.210.155.35/session/35be7296-7b7a-11e8-8077-c81f66f89318/uq2663/h/h29/01.m3u8
-#EXTINF:-1 group-title="News",Newsmax
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 group-title="News",Bloomberg
-http://45.126.83.51/uq2663/h/h03/index2.m3u8
-#EXTINF:-1 group-title="News",Bloomberg
-https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-#EXTINF:-1 group-title="News",DW Channel
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8?sd=10&rebase;=on
-#EXTINF:-1 group-title="News",Jakarta Globe News
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
-#EXTINF:-1 group-title="News",Palestine Today
-http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
-#EXTINF:-1 group-title="News",NHK World
-http://210.210.155.35/uq2663/h/h23/index.m3u8
-#EXTINF:-1 group-title="Premium Movies",WB
-http://203.154.243.89:11205/
-#EXTINF:-1 group-title="Premium Movies",Black Cinema
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=80&deviceId=58af4c093a41ca9d4ecabe96&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 group-title="Premium Movies",Black Ink Crew
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51e2bceca5b4b2c0e06c50/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=285&deviceId=5d51e2bceca5b4b2c0e06c50&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 group-title="Premium Movies",AMC IFC Film Picks
-https://amc-ifc-films-picks-1.vizio.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="Premium Movies",FOX [Vietnam]
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="Premium Movies",Fox Movies [Vietnam]
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="Premium Movies",AMC Presents
-https://amc-amcpresents-1.vizio.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="Premium Movies",AMC Rush
-https://amc-rushbyamc-1.vizio.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="Premium Movies",AMC Slightly off
-https://amc-slightly-off-by-amc-1.vizio.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="Premium Movies",MBC 2
-https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
-#EXTINF:-1 group-title="Premium Movies",MBC Action
-https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
-#EXTINF:-1 group-title="Premium Movies",MBC Max
-https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
-#EXTINF:-1 group-title="Premium Movies",Hallmark Movies & Mysteries
-https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmarkmovies-frndlytv/CDN/playlist.m3u8
-#EXTINF:-1 group-title="Premium Movies",Nginx
-http://51.77.118.216:4780/nginxlive/dexena2020/index.m3u8
-#EXTINF:-1 group-title="Premium Movies",&Prive
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 group-title="Premium Movies",&Flix
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Premium Movies",Movie Kingdom
-https://a.jsrdn.com/broadcast/e9b4093a41/+0000/mid/c.m3u8
-#EXTINF:-1 group-title="Premium Movies",WoW
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1 group-title="Premium Movies",KIX
-http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
-#EXTINF:-1 group-title="Premium Movies",Celestial
-http://210.210.155.35:80/session/18437ccc-73b6-11e9-9278-9c128a7729b7/qwr9ew/s/s33/01.m3u8
-#EXTINF:-1 group-title="Premium Movies",My Cinema
-http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
-#EXTINF:-1 group-title="Premium Movies",M Channel
-http://rr2.dens.tv/s/s42/index.m3u8
-#EXTINF:-1 group-title="Premium Movies",Cinema World
-http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/01.m3u8
-#EXTINF:-1 group-title="Premium Movies",Pluto
-https://stitcher.pluto.tv/stitch/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1 group-title="Premium Movies",Thrill
-http://rr2.dens.tv/s/s34/index.m3u8
-#EXTINF:-1 group-title="Premium Movies",American Horror
-http://170.178.189.66:1935/live/Stream1/.m3u8
-#EXTINF:-1 group-title="Premium Movies",HIT
-http://210.210.155.35/uq2663/h/h37/index2.m3u8
-#EXTINF:-1 group-title="Premium Movies",Baywatch
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d815eb889bca2ce7b746fdd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=142&deviceId=5d815eb889bca2ce7b746fdd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 group-title="Premium Movies",FR Classic Movies
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
-#EXTINF:-1 group-title="Premium Movies",Victory
-http://184.173.179.163:1935/victorytelevisionnetwork/victorytelevisionnetwork/playlist.m3u8
-#EXTINF:-1 group-title="Religion",Makkah
-http://45.126.83.51/qwr9ew/s/s28/index2.m3u8
-#EXTINF:-1 group-title="Religion",Madinah
-http://210.210.155.35/qwr9ew/s/s27/01.m3u8
-#EXTINF:-1 group-title="Religion",Reformed 21
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
-#EXTINF:-1 group-title="Religion",Harvest
-http://live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Religion",Catholic
-http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/master.m3u8
-#EXTINF:-1 group-title="Religion",ISN
-http://cpdc101-lh.akamaihd.net/i/ISNCPDCMB1_1@314337/index_1728_av-p.m3u8
-#EXTINF:-1 group-title="Religion",Better Life
-http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8
-#EXTINF:-1 group-title="Religion",Better Health
-http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
-#EXTINF:-1 group-title="Religion",Better Nature
-http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
-#EXTINF:-1 group-title="Sport",beIN SPORTS XTRA
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 group-title="Sport",Bellator MMA
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=730&deviceId=5ebc8688f3697d00072f7cf8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 group-title="Sport",Bike HD
-https://backup.superstreaming.inaria.me/BikeSmartMobilityDTT/tracks-v2a1/playlist.m3u8
-#EXTINF:-1 group-title="Sport",Star Sport
-http://iptv.kitv.live:1935/live/Shari/MTV-P/51.m3u8
-#EXTINF:-1 group-title="Sport",Star Sport
-http://iptv.kitv.live:1935/live/Shari/MTV-P/53.m3u8
-#EXTINF:-1 group-title="Sport",Star Sport
-http://iptv.kitv.live:1935/live/Shari/MTV-P/52.m3u8
-#EXTINF:-1 group-title="Sport",All Sport
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-#EXTINF:-1 group-title="Sport",KBP
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="Sport",Bek
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
-#EXTINF:-1 group-title="Sport",PTV
-https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
-#EXTINF:-1 group-title="Sport",Sport Kool
-https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
-#EXTINF:-1 group-title="Sport",Smash Sport
-http://s3.smashmalta.com:82/live/smash/smash/18.ts
-#EXTINF:-1 group-title="Sport",One golf
-http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sport",Fight Sports
-http://rr.dens.tv/h/h05/index.m3u8
-#EXTINF:-1 group-title="Sport",TVRI Sports
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1 group-title="Sport",REDBULL TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 group-title="Sport",Dubai Racing
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8?fluxustv.m3u8
