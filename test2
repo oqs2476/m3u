@@ -48,8 +48,7 @@ http://181.78.1.217:8146/play/a02g
 
 #EXTINF:-1,Celestial Classic 天映经典
 http://210.210.155.37/qwr9ew/s/s31/index.m3u8
-#EXTINF:-1,off
-http://redlabmcdn.s.llnwi.net/nv02/bs10hd/index.m3u8
+
 #EXTINF:-1,My Family Channel
 http://210.210.155.37/uq2663/h/h194/index.m3u8
 
@@ -58,8 +57,6 @@ http://210.210.155.37/uq2663/h/h194/index.m3u8
 http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 
 
-#EXTINF:-1 ,off
-http://190.61.102.67:444/play/a06z
 #EXTINF:-1 ,Universal Cinema SD
 http://170.83.242.154:5350/play/a0kp
 #EXTINF:-1 ,Universal Premiere SD
@@ -97,8 +94,12 @@ https://inwonder-eng-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1,Rakuten Action
 https://rakuten-action-8-nl.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1,MBC 1
-https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTINF:-1,MBC 2
+http://45.94.31.195:7001/play/a0cs/index.m3u8
+#EXTINF:-1,MBC Action
+http://45.94.31.195:7001/play/a0cr/index.m3u8
+#EXTINF:-1,MBC MAX
+http://45.94.31.195:7001/play/a0ct/index.m3u8
 
 #EXTINF:-1,HBO
 http://185.181.60.78:9090/14/mpegts
@@ -132,15 +133,18 @@ https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
 #EXTINF:-1 ,STIRR Popstar! TV
 https://dai.google.com/linear/hls/event/cJFuxTLzQUqbGGrqTMBJuw/master.m3u8
 
-
-#EXTINF:-1 group-title="Premium Movies",<off>
-http://rr1.dens.tv/h/h16/index10.m3u8
-#EXTINF:-1,<off>
-http://45.126.83.51/dr9445/h/h16/index.m3u8
-#EXTINF:-1 group-title="Premium Movies",<off>
-http://rr1.dens.tv/h/h15/index10.m3u8
-#EXTINF:-1,<off>
-http://45.126.83.51/dr9445/h/h15/index.m3u8
+#EXTINF:-1,BBC Earth
+http://185.181.60.78:9090/32/mpegts
+#EXTINF:-1,RO: Film Cafe
+http://185.181.60.78:9090/41/mpegts
+#EXTINF:-1,Epic Drama
+http://185.181.60.78:9090/43/mpegts
+#EXTINF:-1,Cinemax 2
+http://185.181.60.78:9090/85/mpegts
+#EXTINF:-1,Filmbox Extra
+http://185.181.60.78:9090/166/mpegts
+#EXTINF:-1,Diva
+http://185.181.60.78:9090/6/mpegts
 
 #EXTINF:-1 group-title="Premium Movies",Action Movies
 https://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
@@ -152,8 +156,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51e2bceca5b4b2c0
 #EXTINF:-1 group-title="Premium Movies",Hallmark Movies & Mysteries
 https://bit.ly/HallmarkMoviesMore?/playlist.m3u8
 
-#EXTINF:-1 group-title="Premium Movies",<off>
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dc039c65b56d0000945af0e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="Premium Movies", Fantastic
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -161,8 +163,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b64a245a202b3337f09e5
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 group-title="Premium Movies",KIX
 http://rr1.dens.tv/h/h07/index.m3u8
-#EXTINF:-1 group-title="Premium Movies",<off>
-http://playlist.urfan.web.id/dr9445/h/h07/01.m3u8
+
 #EXTINF:-1 group-title="Premium Movies",<off>
 http://playlist.urfan.web.id/dr9445/h/h14/01.m3u8
 #EXTINF:-1 group-title="Premium Movies",Celestial Movies
