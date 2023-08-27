@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Premium Movies",off
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 ,One
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 
@@ -52,7 +50,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a66795ef91fef2c7031c5
 
 
 
-#EXTINF:-1,Cinemax HD
+#EXTINF:-1,off
 http://181.78.1.217:8146/play/a02g
 
 #EXTINF:-1,Celestial Classic
@@ -66,12 +64,30 @@ http://210.210.155.37/uq2663/h/h194/index.m3u8
 http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 
 
-#EXTINF:-1 ,off
-http://170.83.242.154:5350/play/a0kp
-#EXTINF:-1 ,off
-http://170.83.242.154:5350/play/a0ko
-#EXTINF:-1 ,off
-http://170.83.242.154:5350/play/a00q
+#EXTINF:-1,&flix HD-Rs 19
+http://14.102.123.50:4000/play/a04w
+#EXTINF:-1,&flix HD-Rs 19
+http://103.134.2.145:5500/play/a01f/index.m3u8
+#EXTINF:-1,&prive HD-Rs 6
+http://14.102.123.50:4000/play/a05j
+#EXTINF:-1,&prive HD-Rs 6
+http://103.134.2.145:5500/play/a019/index.m3u8
+#EXTINF:-1,Boxhit
+http://139.99.27.116:6543/play/Boxhit/index.m3u8
+#EXTINF:-1,MN+ HD-Rs 8
+http://103.134.2.145:5500/play/a00d/index.m3u8
+#EXTINF:-1,MNX - Rs 5
+http://103.134.2.145:5500/play/a00m/index.m3u8
+#EXTINF:-1,MOVIES NOW-Rs10
+http://103.134.2.145:5500/play/a00n/index.m3u8
+#EXTINF:-1,StarMovieSelHD-Rs19
+http://103.134.2.145:5500/play/a00f/index.m3u8
+#EXTINF:-1,ZEE Cafe HD - Rs10
+http://103.134.2.145:5500/play/a00c/index.m3u8
+#EXTINF:-1,viju TV1000
+http://91.200.160.134:15000/play/a0pj/index.m3u8
+
+
 
 #EXTINF:-1,Showtime Selects
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f988934a507de00075d9ae7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -84,16 +100,16 @@ http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 #EXTINF:-1,Chérie 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/FHD.m3u8
 
-#EXTINF:-1,Pink Comedy 
+#EXTINF:-1,off
 http://93.87.44.242:1113/play/a4567
-#EXTINF:-1,Pink Romance 
+#EXTINF:-1,off
 http://93.87.44.242:1113/play/a02h
-#EXTINF:-1,Red HD
+#EXTINF:-1,off
 http://93.87.44.242:1113/play/a0i7
+
 #EXTINF:-1,celestial movie
 http://210.210.155.37/dr9445/h/h14/index.m3u8
-#EXTINF:-1,STAR CHANNEL HD
-http://181.78.1.217:8146/play/a04c
+
 #EXTINF:-1,Rock Ent
 http://210.210.155.37/dr9445/h/h16/index.m3u8
 #EXTINF:-1,Rock Action
@@ -102,52 +118,69 @@ http://210.210.155.37/dr9445/h/h15/index.m3u8
 #EXTINF:-1,Rakuten Action
 https://rakuten-action-8-nl.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1,MBC 2
+#EXTINF:-1,off
 http://45.94.31.195:7001/play/a0cs/index.m3u8
-#EXTINF:-1,MBC Action
+#EXTINF:-1,off
 http://45.94.31.195:7001/play/a0cr/index.m3u8
-#EXTINF:-1,MBC MAX
+#EXTINF:-1,off
 http://45.94.31.195:7001/play/a0ct/index.m3u8
 
 #EXTINF:-1,HBO
-http://185.181.60.78:9090/14/mpegts
+http://149.62.183.194:9293/play/a0bu
 #EXTINF:-1,HBO 2
-http://185.181.60.78:9090/15/mpegts
-#EXTINF:-1,HBO 3
-http://185.181.60.78:9090/16/mpegts
+http://149.62.183.194:9293/play/a0cp
+#EXTINF:-1,HBO 3 
+http://149.62.183.194:9293/play/a08o
 
-#EXTINF:-1,HBO-XTREME 422
-http://187.251.240.18:1099/play/a010/index.m3u8
-#EXTINF:-1,HBO 2 406
-http://187.251.240.18:1099/play/a01l/index.m3u8
-#EXTINF:-1,HBO FAMILY 410
-http://187.251.240.18:1099/play/a01m/index.m3u8
-#EXTINF:-1,HBO PLUS 414
-http://187.251.240.18:1099/play/a01n/index.m3u8
-#EXTINF:-1,HBO SIGNATURE 416
-http://187.251.240.18:1099/play/a01o/index.m3u8
-#EXTINF:-1,HISTORY-2 320
-http://187.251.240.18:1099/play/a023/index.m3u8
-#EXTINF:-1,HBO-MUNDI 417
-http://187.251.240.18:1099/play/a028/index.m3u8
-#EXTINF:-1,HBO-MAX 422
-http://187.251.240.18:1099/play/a03b/index.m3u8
-#EXTINF:-1,HISTORY 318
-http://187.251.240.18:1099/play/a03o/index.m3u8
-#EXTINF:-1,HBO 2
-http://200.123.15.181:6011/play/a00g/index.m3u8
-#EXTINF:-1,HBO Plus
-http://200.123.15.181:6011/play/a00h/index.m3u8
-#EXTINF:-1,HBO XTREME SD
-http://200.123.15.181:6011/play/a00i/index.m3u8
-#EXTINF:-1,HBO Family
-http://200.123.15.181:6011/play/a00j/index.m3u8
 #EXTINF:-1,HBO
-http://200.123.15.181:6011/play/a01n/index.m3u8
+http://138.59.224.12:8000/play/a02s/index.m3u8
+#EXTINF:-1,HBO 2
+http://138.59.224.12:8000/play/a00w/index.m3u8
+#EXTINF:-1,HBO Family
+http://138.59.224.12:8000/play/a00z/index.m3u8
+#EXTINF:-1,HBO Plus
+http://138.59.224.12:8000/play/a00x/index.m3u8
+#EXTINF:-1,HBO XTREME SD
+http://138.59.224.12:8000/play/a00y/index.m3u8
 
 
-#EXTINF:-1,AXN White
-http://185.181.60.78:9090/28/mpegts
+#EXTINF:-1, Cinestar 1
+http://212.200.113.134:25001
+#EXTINF:-1, Cinestar Action
+http://212.200.113.134:25002
+#EXTINF:-1, Cinestar Fantasy
+http://212.200.113.134:25003
+
+
+#EXTINF:-1, MTV 90
+http://185.79.154.218:8085/udp/229.2.33.246:1234
+#EXTINF:-1, Top 40
+http://185.79.154.218:8085/udp/229.2.33.252:1234
+#EXTINF:-1,Eurosport
+http://185.79.154.218:8085/udp/229.2.34.4:1234
+#EXTINF:-1, Eurosport 1
+http://185.79.154.218:8085/udp/229.2.34.46:1234
+#EXTINF:-1,Sky sport
+http://185.79.154.218:8085/udp/229.2.34.15:1234
+#EXTINF:-1,DMAX
+http://185.79.154.218:8085/udp/229.2.34.20:1234
+#EXTINF:-1,Ancient Alien
+http://185.79.154.218:8085/udp/229.2.34.21:1234
+#EXTINF:-1, Storage Hunter
+http://185.79.154.218:8085/udp/229.2.34.37:1234
+#EXTINF:-1, Mov
+http://185.79.154.218:8085/udp/229.2.34.57:1234
+#EXTINF:-1, Mov 2
+http://185.79.154.218:8085/udp/229.2.34.60:1234
+#EXTINF:-1, ITV Be
+http://185.79.154.218:8085/udp/229.2.38.68:1234
+#EXTINF:-1,ITV 2
+http://185.79.154.218:8085/udp/229.2.38.71:1234
+#EXTINF:-1,ITV 1
+http://185.79.154.218:8085/udp/229.2.38.72:1234
+#EXTINF:-1, 4
+http://185.79.154.218:8085/udp/229.2.38.145:1234
+
 
 #EXTINF:-1 ,Celestial Movies
 http://210.210.155.35/dr9445/h/h14/index.m3u8
@@ -173,18 +206,7 @@ https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
 #EXTINF:-1 ,STIRR Popstar! TV
 https://dai.google.com/linear/hls/event/cJFuxTLzQUqbGGrqTMBJuw/master.m3u8
 
-#EXTINF:-1,BBC Earth
-http://185.181.60.78:9090/32/mpegts
-#EXTINF:-1,Film Cafe
-http://185.181.60.78:9090/41/mpegts
-#EXTINF:-1,Epic Drama
-http://185.181.60.78:9090/43/mpegts
-#EXTINF:-1,Cinemax 2
-http://185.181.60.78:9090/85/mpegts
-#EXTINF:-1,Filmbox Extra
-http://185.181.60.78:9090/166/mpegts
-#EXTINF:-1,Diva
-http://185.181.60.78:9090/6/mpegts
+
 
 #EXTINF:-1 group-title="Premium Movies",Action Movies
 https://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
@@ -236,7 +258,6 @@ http://210.210.155.35/uq2663/h/h37/index2.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d815eb889bca2ce7b746fdd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=142&deviceId=5d815eb889bca2ce7b746fdd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 group-title="Premium Movies",FR Classic Movies
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
-
 
 
 
@@ -311,6 +332,16 @@ http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 
 #EXTINF:-1 group-title="Entertainment",PTV Conspiracy
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d4ae94ef1a1bbb350ca41bb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="Entertainment",Trinitas
+http://86.122.138.86:4002
+
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="KNOWLEDGE",English Club TV
 http://iptv.prosto.tv:7000/ch206/video.m3u8
