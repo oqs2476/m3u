@@ -118,12 +118,12 @@ http://210.210.155.37/dr9445/h/h15/index.m3u8
 #EXTINF:-1,Rakuten Action
 https://rakuten-action-8-nl.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1,off
-http://45.94.31.195:7001/play/a0cs/index.m3u8
-#EXTINF:-1,off
-http://45.94.31.195:7001/play/a0cr/index.m3u8
-#EXTINF:-1,off
-http://45.94.31.195:7001/play/a0ct/index.m3u8
+#EXTINF:-1,New
+http://95.67.12.82:9046
+#EXTINF:-1,Flix Snip
+http://95.67.12.82:9061
+#EXTINF:-1,AXN WHITE
+http://146.59.85.40:89/axnwhite/index.m3u8
 
 #EXTINF:-1,HBO
 http://149.62.183.194:9293/play/a0bu
@@ -164,9 +164,9 @@ http://185.79.154.218:8085/udp/229.2.34.46:1234
 http://185.79.154.218:8085/udp/229.2.34.15:1234
 #EXTINF:-1,DMAX
 http://185.79.154.218:8085/udp/229.2.34.20:1234
-#EXTINF:-1,Ancient Alien
+#EXTINF:-1, History
 http://185.79.154.218:8085/udp/229.2.34.21:1234
-#EXTINF:-1, Storage Hunter
+#EXTINF:-1, Dave
 http://185.79.154.218:8085/udp/229.2.34.37:1234
 #EXTINF:-1, Mov
 http://185.79.154.218:8085/udp/229.2.34.57:1234
@@ -578,6 +578,10 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 
 #EXTINF:-1 group-title="Music",Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+
+#EXTINF:-1 group-title="Music",Atomic Tv
+http://89.40.67.88:9876
+
 
 
 #EXTINF:-1 group-title="News",CNA (ASIA)
