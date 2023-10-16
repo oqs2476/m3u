@@ -85,10 +85,6 @@ https://linear-143.frequency.stream/dist/localnow/143/hls/master/playlist_1280x7
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d815eb889bca2ce7b746fdd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=142&deviceId=5d815eb889bca2ce7b746fdd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 group-title="Premium Movies",FR Classic Movies
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
-
-
-
-
 #EXTINF:-1 group-title="Entertainment",Just for Laughs
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd859/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 group-title="Entertainment",TV Pranks
@@ -125,10 +121,6 @@ http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d4ae94ef1a1bbb350ca41bb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Entertainment",Trinitas
 http://86.122.138.86:4002
-
-
-
-
 #EXTINF:-1 group-title="KNOWLEDGE",English Club TV
 http://iptv.prosto.tv:7000/ch206/video.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE",AWE Encore
@@ -205,10 +197,6 @@ https://amg01077-gusto-gustous-distro.amagi.tv/playlist.m3u8
 https://9bfce4d7d1834266b2953afe3deb1e8f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Hungry/playlist.m3u8?ads.wurl_channel=140&ads.wurl_name=Hungry&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 group-title="KNOWLEDGE",SO YUMMY
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-soyummy-xumo/CDN/master.m3u8
-
-
-
-
 #EXTINF:-1 group-title="Kids",BratTV
 https://brat-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Kids",Biznet Kids
@@ -225,16 +213,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd0
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=830&deviceId=5812b7d3249444e05d09cc49&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 group-title="Kids",Kids TV
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
-
-
-
 #EXTINF:-1 group-title="Asia",Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="Asia",Macau
 http://live4.tdm.com.mo:80/ch3/_definst_//ch3.live/playlist.m3u8
-
-
-
 #EXTINF:-1 group-title="Music",Greatest Hits
 https://ott-linear-channels.stingray.com/hls/stirr/155.m3u8
 #EXTINF:-1 group-title="Music",Hit List
@@ -255,9 +237,6 @@ http://ventdelnord.tv:8080/mola/directe.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
 #EXTINF:-1 group-title="Music",Atomic Tv
 http://89.40.67.88:9876
-
-
-
 #EXTINF:-1 group-title="News",CNA (ASIA)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 group-title="News",ALJAZEERA
@@ -278,11 +257,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/55b285cd2665de274553d6
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/55b179af994403942f3061d6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="News",CNN
 http://89.254.128.5:22280/cnn/video.m3u8
-
-
-
-
-
+#EXTINF:-1 group-title="Religion",Harvest
+http://live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Sport",Boxing TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/BOXINGTV_SCTE.m3u8
 #EXTINF:-1 group-title="Sport",Billiard TV
@@ -295,16 +271,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d0007
 http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-
-
 #EXTINF:-1 group-title="Lokal",Berita 1
 https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
 #EXTINF:-1 group-title="Lokal",JTV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/index.m3u8
-
-
-
 #EXTINF:-1 group-title="Local Radio",RPK Jkt
 http://live.indostreamserver.com:8030/;
 #EXTINF:-1 group-title="Local Radio",Sangkakala Sby
@@ -349,9 +319,6 @@ http://202.58.200.26:1055/live
 http://live.elpasfm.com:8888/elpasfm
 #EXTINF:-1 group-title="Local Radio",Phoenis DPS
 https://live.phoenixradiobali.com:8250/phoenixradio
-
-
-
 #EXTINF:-1 group-title="Intl Radio",Eileen
 http://radioeileen.ddns.net:8000/live.ogg
 #EXTINF:-1 group-title="Intl Radio",Relax
