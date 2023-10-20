@@ -5,6 +5,10 @@ http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Premium Movies",Action Movies
 https://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1,Moviedome
+https://kochmedia-moviedome-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1,Movies4Free
+https://movies4free-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Fort TV
 http://fort.co-works.org:8080/hls/live.stream.m3u8
 #EXTINF:-1 ,Groovy TV
@@ -21,6 +25,8 @@ https://d2wkw6golvkrrh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8
 #EXTINF:-1 ,CineLife
 https://magnolia-cinelife.amagi.tv/playlist.m3u8
+#EXTINF:-1,Spotlight TV
+https://spotlight-redbox.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Premium Movies",STIRR Movies
 https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
 #EXTINF:-1 ,PTV Reaction
@@ -59,6 +65,8 @@ http://212.200.113.134:25001
 http://212.200.113.134:25002
 #EXTINF:-1 ,Cinestar Fantasy
 http://212.200.113.134:25003
+#EXTINF:-1,24 Hour Free Movies
+https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8?ads.islive=1&ads.streamtype=live
 #EXTINF:-1 ,STIRR Electric Now
 https://dai.google.com/linear/hls/event/KsvJAc81Qoewj6opYso6Fw/master.m3u8
 #EXTINF:-1 ,STIRR Comet
@@ -85,6 +93,12 @@ https://linear-143.frequency.stream/dist/localnow/143/hls/master/playlist_1280x7
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d815eb889bca2ce7b746fdd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=142&deviceId=5d815eb889bca2ce7b746fdd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 group-title="Premium Movies",FR Classic Movies
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Entertainment",CraftsyTV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/craftsytv/playlist.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23108&ads.content_duration=18000&ads.episode_id=100517&ads.show_id=3570&ads.showCategories=IAB9&ads.episodeCategories=IAB9&ads.genre=Lifestyle&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=CraftsyTV&ads.episodetitle=CraftsyTV&ads.keywords=Quilting%2CKnitting%2CCrochet%2CCake%20Decorating%2CBaking%2CCooking%2CYoga%2CWoodworking%2CSlow%20TV%2CJewelry%20Making%2CPhotography%2CDrawing%2CHome%20Decor%2CPainting%2CPaper%20Crafting&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=craftsytv&ads.islive=1&ads.streamtype=live
 #EXTINF:-1 group-title="Entertainment",Just for Laughs
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd859/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 group-title="Entertainment",TV Pranks
@@ -113,6 +127,8 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f21e831e9fe730007706acb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Entertainment",Nosey
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5aec96ec5126c2157123c657/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Entertainment",Life Style by Triptic
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/life-style-by-triptic/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23024&ads.content_duration=18000&ads.episode_id=83003&ads.show_id=3182&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Lifestyle&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=es&ads.showtitle=Life%20Style%20by%20Triptic&ads.episodetitle=Life%20Style%20by%20Triptic&ads.keywords=lifestyle%2Cespanol%2Cspanish%2Ctriptic&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
 #EXTINF:-1 group-title="Entertainment",Wild 'N Out
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d48678d34ceb37d3c458a55/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Entertainment",Netmax
@@ -145,10 +161,14 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/563a970aa1a1f7fe7c9daa
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE",Nat Geo Channel
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",TED
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ted/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23072&ads.content_duration=18000&ads.episode_id=89260&ads.show_id=3305&ads.showCategories=IAB5&ads.episodeCategories=IAB5&ads.genre=Education&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=TED&ads.episodetitle=TED&ads.keywords=TED%2CTED%20Talks%2CCulture%2CScience%2CTechnology%2CEntertainment%2CEducation&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
 #EXTINF:-1 group-title="KNOWLEDGE",Curiosity
 https://curiosity-africa.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE",SMITHSONIAN
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",Timeline
+https://lds-timeline-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Beyond Belief: Fact or Fiction
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/611f85396abc84000738417b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="KNOWLEDGE",Cats 24/7
@@ -175,6 +195,8 @@ https://wildearth-adsfree-ono.amagi.tv/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE",Wild Planet
 https://d3c7duantorcb1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/77466ab3-8e6b-497f-9bf9-7b20f2536a20/3.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",Outside TV
+https://outsidetv-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE",Auto Motor Sport
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=c676a4b5-65d2-474a-b477-c04f8b88e727&deviceId=5f760c3d41aa2d0007bfde19&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
 #EXTINF:-1 group-title="KNOWLEDGE",Fidotv
@@ -217,6 +239,10 @@ https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="Asia",Macau
 http://live4.tdm.com.mo:80/ch3/_definst_//ch3.live/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Music",Clubbing TV
+https://clubbingtv-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Music",Greatest Hits
 https://ott-linear-channels.stingray.com/hls/stirr/155.m3u8
 #EXTINF:-1 group-title="Music",Hit List
@@ -237,10 +263,17 @@ http://ventdelnord.tv:8080/mola/directe.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
 #EXTINF:-1 group-title="Music",Atomic Tv
 http://89.40.67.88:9876
+
+
+#EXTINF:-1 group-title="News",WION World is One News
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/wion-world-is-one-news/index.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22975&ads.content_duration=18000&ads.episode_id=55878&ads.show_id=1741&ads.showCategories=IAB12&ads.episodeCategories=IAB12&ads.genre=News&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=en&ads.showtitle=WION%20World%20is%20One%20News&ads.episodetitle=WION%20World%20is%20One%20News&ads.keywords=wion&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
 #EXTINF:-1 group-title="News",CNA (ASIA)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 group-title="News",ALJAZEERA
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+#EXTINF:-1 group-title="News",OAN
+https://oan-lg.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="News",Fox Live
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="News",ABC News (AUS)
@@ -259,8 +292,17 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/55b179af994403942f3061
 http://89.254.128.5:22280/cnn/video.m3u8
 #EXTINF:-1 group-title="Religion",Harvest
 http://live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport",LifeFit by Triptic
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/lifefit-by-triptic/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23024&ads.content_duration=18000&ads.episode_id=94628&ads.show_id=3402&ads.showCategories=IAB7&ads.episodeCategories=IAB7&ads.genre=Sports&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=es&ads.showtitle=LifeFit%20by%20Triptic&ads.episodetitle=LifeFit%20by%20Triptic&ads.keywords=Life%2CFit%2CWorkouts%2CExercise%2CLifeFit&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
+#EXTINF:-1 group-title="Sport",Motorvision TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorvision-tv/a.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22886&ads.content_duration=18000&ads.episode_id=92944&ads.show_id=3369&ads.showCategories=IAB2&ads.episodeCategories=IAB2&ads.genre=Lifestyle&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=en&ads.showtitle=Motorvision%20TV&ads.episodetitle=Motorvision%20TV&ads.keywords=Motorvision%2CMotor%2CCars%2CLuxury%2CSports%20Cars%2CCar%20History&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&version=12&id=1199&partner=distro&ads.islive=1&ads.streamtype=live
+#EXTINF:-1 group-title="Sport",Racing America
+https://racingamerica-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Sport",Boxing TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/BOXINGTV_SCTE.m3u8
+#EXTINF:-1 group-title="Sport",KOZOOM TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kozoom-tv/manifest.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23064&ads.content_duration=18000&ads.episode_id=83822&ads.show_id=3197&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=KOZOOM%20TV&ads.episodetitle=KOZOOM%20TV&ads.keywords=Billiards%2CBilliard%2CPool%2CKozoom&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
 #EXTINF:-1 group-title="Sport",Billiard TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/BILLIARDTV_SCTE.m3u8
 #EXTINF:-1 group-title="Sport",beIN SPORTS XTRA
@@ -269,6 +311,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf50009
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=730&deviceId=5ebc8688f3697d00072f7cf8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 group-title="Sport",One golf
 http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sport",Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Sport",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 group-title="Lokal",Berita 1
