@@ -405,10 +405,26 @@ http://radiosangkakala.alucio.net.id:7777/;
 https://ssg.streamingmurah.com:8094/stream
 #EXTINF:-1 group-title="Local Radio",El Shadai   91.3FM
 http://shaddai.onlivestreaming.net:9130/live
-#EXTINF:-1 group-title="Local Radio",City Radio   95.9FM
+#EXTINF:-1 group-title="Local Radio",Prestasi
+http://u.klikhost.com:7128/;
+#EXTINF:-1 group-title="Local Radio",KAJ
+http://kaj.onlivestreaming.net:9500/;
+#EXTINF:-1 group-title="Local Radio",City Radio   95.8FM
 http://streaming.cityradio.id:8000/cityradio.ogg
+#EXTINF:-1 group-title="Local Radio",i Radio
+https://stream.radiojar.com/4ywdgup3bnzuv
+#EXTINF:-1 group-title="Local Radio",Mandarin Jkt  98.3FM
+https://stream01-ssl.arenastreaming.com:8043/stream
+#EXTINF:-1 group-title="Local Radio",Global Sby
+http://svara-stream.radioddns.net:8000/surabaya_globalfm_
 #EXTINF:-1 group-title="Local Radio",Global Radio Jakarta   88.4FM
 http://202.147.199.98/;
+#EXTINF:-1 group-title="Local Radio",Smart FM
+https://cast2.my-control-panel.com/proxy/radios14/stream
+#EXTINF:-1 group-title="Local Radio",Delta FM
+https://stream.cloudmu.id/listen/delta_fm/stream
+#EXTINF:-1 group-title="Local Radio",Sonora
+http://cast1.my-control-panel.com/proxy/radioso1/stream
 #EXTINF:-1 group-title="Local Radio",Nagaswara Bogor
 http://bogor.nagaswarafm.com:8088/stream
 #EXTINF:-1 group-title="Local Radio",Sindo Trijaya   104.6FM
@@ -423,6 +439,12 @@ http://radiossfm.com:9000/;
 http://live.camajayafm.com:8220/;
 #EXTINF:-1 group-title="Local Radio",Smooth Jkt
 https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
+#EXTINF:-1 group-title="Local Radio",Pas FM
+https://i.klikhost.com/8266/stream
+#EXTINF:-1 group-title="Local Radio",Female Radio
+https://stream.cloudmu.id/listen/female_radio/femaleradio
+
+
 #EXTINF:-1 group-title="Local Radio",Classy Padang
 http://stream.classyfm.co.id:1034/stream.mp3
 #EXTINF:-1 group-title="Local Radio",Thomson Jogja
