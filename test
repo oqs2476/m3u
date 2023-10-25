@@ -19,6 +19,10 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch21)/index.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup2/cg232production/ch309/02.m3u8
 #EXTINF:-1,Paramount Network vod
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u8
+#EXTINF:-1,Paramount 
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/paramount.m3u8
+
+
 #EXTINF:-1,HITSMOVIE
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch324)/index.m3u8
 #EXTINF:-1,ROCK ACTION
@@ -26,9 +30,24 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch330)/index.m3u
 #EXTINF:-1,ROCK ENTERTAINMENT
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch335)/index.m3u8
 
+#EXTINF:-1 group-title="Premium Movies",K.MOVIES
+https://newidco-newmovies-1-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Premium Movies",WoW
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1,PTV Drama
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dc039c65b56d0000945af0e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1,Celestial Movies
+http://210.210.155.35/dr9445/h/h14/index.m3u8
+#EXTINF:-1,Celestial Movies
+http://rr1.dens.tv/h/h14/index.m3u8
 
-
+#EXTINF:-1,Xing Kong International
+http://210.210.155.35/x6bnqe/s/s94/index2.m3u8
+#EXTINF:-1,MBC Max
+http://176.65.146.154:8033/play/a079/index.m3u8
+#EXTINF:-1,MBC 2
+http://176.65.146.154:8029/play/a03i/index.m3u8
 
 #EXTINF:-1,Cinemax
 http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/197964
@@ -40,6 +59,10 @@ https://dqvu8d0acm4xt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkdmsl/hallmarkdmsl//playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 #EXTINF:-1 group-title="Premium Movies",Romance Movies
 https://d2wkw6golvkrrh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb3600003ic-prod/amgholidaymovie/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1,NYX
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/nyx-ca/manifest.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23077&ads.content_duration=18000&ads.episode_id=103416&ads.show_id=3645&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=en&ads.showtitle=NYX&ads.episodetitle=NYX&ads.keywords=NYX%2CHorror%2CMovies&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
+
 #EXTINF:-1 ,Cineview
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8
 #EXTINF:-1 ,CineLife
@@ -78,6 +101,26 @@ http://149.62.183.194:9293/play/a0bu
 http://149.62.183.194:9293/play/a0cp
 #EXTINF:-1 ,HBO 3
 http://149.62.183.194:9293/play/a08o
+
+#EXTINF:-1,HBO Signature*
+http://208.115.225.174:14160
+#EXTINF:-1,HBO*
+http://208.115.225.174:14136
+#EXTINF:-1,HBO Extreme*
+http://208.115.225.174:14165
+#EXTINF:-1,HBO2*
+http://208.115.225.174:14140
+
+#EXTINF:-1,ID: CinemaWorld
+http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/165082
+#EXTINF:-1,ID: Cinemax
+http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/197964
+#EXTINF:-1,ID: My Cinema
+http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/298553
+#EXTINF:-1,ID: My Cinema Asia
+http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/298554
+
+
 #EXTINF:-1 ,Cinestar 1
 http://212.200.113.134:25001
 #EXTINF:-1 ,Cinestar Action
@@ -545,3 +588,8 @@ http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 http://stream.srg-ssr.ch/m/rsj/mp3_128
 #EXTINF:-1 group-title="Intl Radio 2",Radio paradise
 http://stream.radioparadise.com/mellow-flac
+
+
+
+#EXTINF:-1,True Hollywood Network
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/true-hollywood-network/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23113&ads.content_duration=18000&ads.episode_id=104433&ads.show_id=3664&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=en&ads.showtitle=True%20Hollywood%20Network&ads.episodetitle=True%20Hollywood%20Network&ads.keywords=Action%2CAdventure%2CComedy%2CDrama%2CFantasy%2CHorror%2CMystery%2CRomance%2CScience%20fiction%2CSports%2CThriller%2CAnimation&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
