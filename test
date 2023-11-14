@@ -141,7 +141,7 @@ https://crackle-plex.amagi.tv/playlist.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d40bebc5e3d2750a2239d7e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 ,Central TV
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
-#EXTINF:-1 ,New
+#EXTINF:-1 ,Dorama (Korean movie)
 http://95.67.12.82:9046
 #EXTINF:-1 ,Flix Snip
 http://95.67.12.82:9061
@@ -149,19 +149,19 @@ http://95.67.12.82:9061
 http://146.59.85.40:89/axnwhite/index.m3u8
 #EXTINF:-1,HBO Lao
 https://edge2.laotv.la/live/HBO/sc-gaFECQ/v1/index.m3u8
-#EXTINF:-1,Cinemax Lao
+#EXTINF:-1,Cinemax 
 https://edge1.laotv.la/live/Cinemax/sc-gaFECQ/v1/index.m3u8
-#EXTINF:-1,Star Movies Lao
+#EXTINF:-1,Star Movies 
 https://edge1.laotv.la/live/StarMovie/sc-gaFECQ/v1/index.m3u8
 
 
-#EXTINF:-1 ,HBO Signature*
+#EXTINF:-1 ,HBO Signature
 http://208.115.225.174:14160
-#EXTINF:-1 ,HBO*
+#EXTINF:-1 ,HBO
 http://208.115.225.174:14136
-#EXTINF:-1 ,HBO Extreme*
+#EXTINF:-1 ,HBO Extreme
 http://208.115.225.174:14165
-#EXTINF:-1 ,HBO2*
+#EXTINF:-1 ,HBO 2
 http://208.115.225.174:14140
 #EXTINF:-1 ,MY CINEMA EUROPE
 https://op-group1-swiftservehd-1.dens.tv/h/h18/02.m3u8
@@ -177,7 +177,7 @@ http://212.200.113.134:25001
 http://212.200.113.134:25002
 #EXTINF:-1 ,Cinestar Fantasy
 http://212.200.113.134:25003
-#EXTINF:-1 ,24 Hour Free Movies
+#EXTINF:-1 ,24h Free Movies
 https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8?ads.islive=1&ads.streamtype=live
 #EXTINF:-1 ,STIRR Electric Now
 https://dai.google.com/linear/hls/event/KsvJAc81Qoewj6opYso6Fw/master.m3u8
@@ -189,7 +189,7 @@ https://dai.google.com/linear/hls/event/cJFuxTLzQUqbGGrqTMBJuw/master.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=80&deviceId=58af4c093a41ca9d4ecabe96&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 group-title="Premium Movies",Black Ink Crew
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51e2bceca5b4b2c0e06c50/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=285&deviceId=5d51e2bceca5b4b2c0e06c50&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 ,LOCAL NOW ADRENALINE RUSH
+#EXTINF:-1 ,ADRENALINE RUSH
 https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8
 #EXTINF:-1 ,LOCAL NOW DRAMA
 https://linear-141.frequency.stream/dist/localnow/141/hls/master/playlist.m3u8
