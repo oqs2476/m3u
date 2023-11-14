@@ -37,89 +37,57 @@ http://op-group1-swiftservehd-1.dens.tv/h/h213/02.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h218/01.m3u8
 #EXTINF:-1 ,Rock Action HD
 http://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8
-#EXTINF:-1 ,Xing Kong International
-http://210.210.155.35/x6bnqe/s/s94/index2.m3u8
 #EXTINF:-1 ,MBC Max
 http://176.65.146.154:8033/play/a079/index.m3u8
 #EXTINF:-1 ,MBC 2
 http://176.65.146.154:8029/play/a03i/index.m3u8
-#EXTINF:-1 ,Cinemax
-http://iptvtree.net:8080/1eae94e3/GpDddDC8ddMxhY2n/197964
-
-
-
-#EXTINF:-1,Action Movies - Rakuten TV
+#EXTINF:-1,Warner Tv
+https://bit.ly/46793nW?/playlist720.m3u8
+#EXTINF:-1 ,Action Movies - Rakuten TV
 https://8f72400044c842498436abd352ba487b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_RakutenActionMovies/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=15&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=CPn5KgAPn5KgAADABBPLC4CsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgiAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAggAogBQQAACCIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAIAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads.market=uk&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=9545f581-7373-4bce-8a6f-29b52118cc80&ads.rtv_content_id=2512&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=3acf8c6b-15e7-4b3c-b787-9bb41dfc9d6f&ads.user_type=visitor&ads.wurl_channel=423
-#EXTINF:-1,Comedy Movies - Rakuten TV
+#EXTINF:-1 ,Comedy Movies - Rakuten TV
 https://3b860eeb37fb4f4fa78a0848dd060893.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_RakutenComedyMovies/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=15&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=CPn5KgAPn5KgAADABBPLC4CsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgiAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAggAogBQQAACCIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAIAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads.market=uk&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=9545f581-7373-4bce-8a6f-29b52118cc80&ads.rtv_content_id=2511&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=a4d7d9fa-ab22-42a6-ba67-abcae93397c9&ads.user_type=visitor&ads.wurl_channel=424
-#EXTINF:-1,Drama Movies - Rakuten TV
+#EXTINF:-1 ,Drama Movies - Rakuten TV
 https://db44ab650bce44a59112e74420f2af4e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_RakutenTVShows/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=15&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=CPn5KgAPn5KgAADABBPLC4CsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgiAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAggAogBQQAACCIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAIAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads.market=uk&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=9545f581-7373-4bce-8a6f-29b52118cc80&ads.rtv_content_id=2514&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=fde88655-6417-46be-a615-cf2b0ae1ecde&ads.user_type=visitor&ads.wurl_channel=425
-#EXTINF:-1,British Films - Rakuten TV
+#EXTINF:-1 ,British Films - Rakuten TV
 https://e1c61ff393ae4a4d93f1f12e3fdae43d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_Local/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=15&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=CPn5KgAPn5KgAADABBPLC4CsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgiAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAggAogBQQAACCIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAIAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads.market=uk&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=9545f581-7373-4bce-8a6f-29b52118cc80&ads.rtv_content_id=2931&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=d2425ed3-4ee0-46ea-b02e-a26795ef774a&ads.user_type=visitor&ads.wurl_channel=793
-#EXTINF:-1,Thrillers - Rakuten TV
+#EXTINF:-1 ,Thrillers - Rakuten TV
 https://002933288fed459bbb7fe5e82562c3e2.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-gb_RakutenThriller/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=15&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=CPn5KgAPn5KgAADABBPLC4CsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgiAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAggAogBQQAACCIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAIAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads.market=uk&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=9545f581-7373-4bce-8a6f-29b52118cc80&ads.rtv_content_id=3329&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=6554982f-3267-48fe-acb5-341d6f4305d3&ads.user_type=visitor&ads.wurl_channel=883
-#EXTINF:-1,Romance Movies - Rakuten TV
+#EXTINF:-1 ,Romance Movies - Rakuten TV
 https://f5804858608b4fb7a9a831a7b2572a79.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-gb_RakutenRomance/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=15&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=CPn5KgAPn5KgAADABBPLC4CsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgiAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAggAogBQQAACCIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAIAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads.market=uk&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=9545f581-7373-4bce-8a6f-29b52118cc80&ads.rtv_content_id=3288&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=fdcf3775-1e2d-488f-8f5b-11069a2637c8&ads.user_type=visitor&ads.wurl_channel=888
-#EXTINF:-1,Trailers
+#EXTINF:-1 ,Trailers
 https://b3305a6500ea4c0a9802d2fbd4478085.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-4313/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=15&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=CPn5KgAPn5KgAADABBPLC4CsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgiAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAggAogBQQAACCIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAIAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads.ifa_type=ppid&ads.market=uk&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=9545f581-7373-4bce-8a6f-29b52118cc80&ads.rakutentv_channel=4313&ads.rtv_content_id=4313&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=173c39bf-724b-40d6-95e0-d92521377bdd&ads.user_type=visitor
-#EXTINF:-1,Big Time
+#EXTINF:-1 ,Big Time
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/953ec5ab-c54c-11ec-967f-401ac48a6867/0/master.m3u8?ads:amznbrmid=&ads:amznregion=&ads:amznslots=&ads:app_bundle=com.rakuten.tv&ads:content_classification=15&ads:device_type=web&ads:device_year=1970&ads:funke_channel_id=RAKB0007&ads:language=eng&ads:market=uk&ads:player_height=1080&ads:player_width=1920&ads:pod_type=playerpage_midroll&ads:rtv_content_id=4130&ads:streaming_id=e10c2bb6-8d55-4fb1-86ca-a3a0b47a2e19&ads:tcf=CPn5KgAPn5KgAADABBPLC4CsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgiAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAggAogBQQAACCIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAIAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads:user_type=visitor&country=gb&optout=0&uid=9545f581-7373-4bce-8a6f-29b52118cc80&vendor=rakuten
-#EXTINF:-1,Popflix
+#EXTINF:-1 ,Popflix
 https://75bced9559e343058577aeae94f36a8c.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-gb_Popflix/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=15&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=CPn5KgAPn5KgAADABBPLC4CsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgiAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAggAogBQQAACCIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAIAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads.market=uk&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=9545f581-7373-4bce-8a6f-29b52118cc80&ads.rtv_content_id=4279&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=5a4cef4a-2ffe-46f6-b0e8-a11d03596d8a&ads.user_type=visitor&ads.wurl_channel=1068
-#EXTINF:-1,Mech+
+#EXTINF:-1 ,Mech+
 https://197bf837c9494acf8a8f1185401b8059.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-gb_MechPlus/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=7&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=CPn5KgAPn5KgAADABBPLC4CsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgiAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAggAogBQQAACCIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAIAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads.market=uk&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=9545f581-7373-4bce-8a6f-29b52118cc80&ads.rtv_content_id=4702&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=269117eb-e75d-4188-8a16-8c42ea809b63&ads.user_type=visitor&ads.wurl_channel=1413
-
-
-
-
-
-
-
-#EXTINF:-1,Celestial Movies
+#EXTINF:-1 ,Celestial Movies
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683142&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1,Cinemachi Extra
+#EXTINF:-1 ,Cinemachi Extra
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683161&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1,Cinemachi Max
+#EXTINF:-1 ,Cinemachi Max
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683173&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1,Cinemachi Kids
+#EXTINF:-1 ,Cinemachi Kids
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683085&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1,DreamWorks
+#EXTINF:-1 ,DreamWorks
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683171&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1,DreamWorks
+#EXTINF:-1 ,DreamWorks
 http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/157610
-#EXTINF:-1,Paramount Network
-http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298564
-#EXTINF:-1,Paramount Network
-http://iptvtree.net:8080/JoNSnoW/kY4hFt7Vrln259Gkchangepass/298564
-#EXTINF:-1,Paramount Network
+#EXTINF:-1 ,Paramount Network
 http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/298564
-#EXTINF:-1,HBO
-http://iptvtree.net:8080/JoNSnoW/kY4hFt7Vrln259Gkchangepass/197972
-#EXTINF:-1,HBO Family
-http://iptvtree.net:8080/JoNSnoW/kY4hFt7Vrln259Gkchangepass/197055
-#EXTINF:-1,HBO Hits
-http://iptvtree.net:8080/JoNSnoW/kY4hFt7Vrln259Gkchangepass/196480
-#EXTINF:-1,HBO Signature
-http://iptvtree.net:8080/JoNSnoW/kY4hFt7Vrln259Gkchangepass/221948
-#EXTINF:-1,Celestial Movies
+#EXTINF:-1 ,Celestial Movies
 http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/165065
-#EXTINF:-1,Star Movies Select
-http://iptvs.life:8080/osec/c5176e377c82/267542
-#EXTINF:-1,Zee Café
-http://iptvs.life:8080/osec/c5176e377c82/49561
-
-
-
-
-
 #EXTINF:-1 group-title="Premium Movies",Fantastic
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="Premium Movies",Hallmark
+https://bit.ly/3NjZLi9?/playlist.m3u8
 #EXTINF:-1 group-title="Premium Movies",Hallmark Movies & More
 https://dqvu8d0acm4xt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/HallmarkMovies-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 ,HALLMARK DRAMA
+#EXTINF:-1 ,Hallmark Drama
 https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkdmsl/hallmarkdmsl//playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
-#EXTINF:-1 group-title="Premium Movies",Romance Movies
-https://d2wkw6golvkrrh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb3600003ic-prod/amgholidaymovie/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 ,NYX
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/nyx-ca/manifest.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23077&ads.content_duration=18000&ads.episode_id=103416&ads.show_id=3645&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=en&ads.showtitle=NYX&ads.episodetitle=NYX&ads.keywords=NYX%2CHorror%2CMovies&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
 #EXTINF:-1 ,Cineview
@@ -154,14 +122,12 @@ http://95.67.12.82:9046
 http://95.67.12.82:9061
 #EXTINF:-1 ,AXN WHITE
 http://146.59.85.40:89/axnwhite/index.m3u8
-#EXTINF:-1,HBO Lao
+#EXTINF:-1 ,HBO Lao
 https://edge2.laotv.la/live/HBO/sc-gaFECQ/v1/index.m3u8
-#EXTINF:-1,Cinemax Lao
+#EXTINF:-1 ,Cinemax Lao
 https://edge1.laotv.la/live/Cinemax/sc-gaFECQ/v1/index.m3u8
-#EXTINF:-1,Star Movies Lao
+#EXTINF:-1 ,Star Movies Lao
 https://edge1.laotv.la/live/StarMovie/sc-gaFECQ/v1/index.m3u8
-
-
 #EXTINF:-1 ,HBO Signature*
 http://208.115.225.174:14160
 #EXTINF:-1 ,HBO*
@@ -172,8 +138,6 @@ http://208.115.225.174:14165
 http://208.115.225.174:14140
 #EXTINF:-1 ,MY CINEMA EUROPE
 https://op-group1-swiftservehd-1.dens.tv/h/h18/02.m3u8
-#EXTINF:-1 ,MY CINEMA
-https://op-group1-swiftservesd-1.dens.tv/h/h192/index.m3u8
 #EXTINF:-1 ,MY CINEMA ASIA
 https://op-group1-swiftservesd-1.dens.tv/h/h193/index.m3u8
 #EXTINF:-1 ,MY FAMILY CHANNEL
@@ -212,6 +176,14 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d815eb889bca2ce7b
 https://d22ljxpuae2sin.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="Premium Movies",FR Classic Movies
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="Entertainment",5 Minute Crafts
+https://bit.ly/3QLfTvi?/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",CraftsyTV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/craftsytv/playlist.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23108&ads.content_duration=18000&ads.episode_id=100517&ads.show_id=3570&ads.showCategories=IAB9&ads.episodeCategories=IAB9&ads.genre=Lifestyle&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=CraftsyTV&ads.episodetitle=CraftsyTV&ads.keywords=Quilting%2CKnitting%2CCrochet%2CCake%20Decorating%2CBaking%2CCooking%2CYoga%2CWoodworking%2CSlow%20TV%2CJewelry%20Making%2CPhotography%2CDrawing%2CHome%20Decor%2CPainting%2CPaper%20Crafting&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=craftsytv&ads.islive=1&ads.streamtype=live
 #EXTINF:-1 group-title="Entertainment",Just for Laughs
@@ -236,8 +208,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f21e7b24744c60007c1f6
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d48685da7e9f476aa8a1888/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Entertainment",The Design Network
 https://thedesignnetwork-pluto.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment",Life style
-http://op-group1-swiftservesd-1.dens.tv/s/s51/live.m3u8
 #EXTINF:-1 group-title="Entertainment",FTV Midnight Secrets
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",Fashion TV Paris
@@ -254,10 +224,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d48678d34ceb37d3c458a
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",PTV Conspiracy
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d4ae94ef1a1bbb350ca41bb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Entertainment",Trinitas
-http://86.122.138.86:4002
 #EXTINF:-1 group-title="KNOWLEDGE",English Club TV
 http://iptv.prosto.tv:7000/ch206/video.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",Travelxp
+https://17f510c554f64f82a337896666d59b8f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_TravelXP/playlist.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE",AWE Encore
 https://aweencore-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE",Time Line
@@ -266,7 +236,9 @@ https://lds-timeline-samsungau.amagi.tv/playlist.m3u8
 https://lds-realfamilies-samsunguau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE",Real Stories
 https://lds-realstories-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE",HISTORY vod
+#EXTINF:-1 group-title="KNOWLEDGE",Inwonder tv
+https://bit.ly/3MD8dbJ?/playlist720.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",HISTORY
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch131%29/index.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE",court tv
 https://content.uplynk.com/channel/87c82188ea944bcb961c34236b9648b0.m3u8
@@ -318,6 +290,9 @@ https://wildearth-adsfree-ono.amagi.tv/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE",Wild Planet
 https://d3c7duantorcb1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/77466ab3-8e6b-497f-9bf9-7b20f2536a20/3.m3u8
+#EXTINF:-1 group-title="KNOWLEDGE",Voyager Documentaries
+https://bit.ly/3mAWlc5?/playlist720p.m3u8
+
 #EXTINF:-1 group-title="KNOWLEDGE",Outside TV
 https://outsidetv-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE",Auto Motor Sport
@@ -349,8 +324,6 @@ https://9bfce4d7d1834266b2953afe3deb1e8f.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="KNOWLEDGE",SO YUMMY
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-soyummy-xumo/CDN/master.m3u8
 
-
-
 #EXTINF:-1 group-title="Kids",Cartoon Network
 http://212.0.211.102:9999/play/a01g/index.m3u8
 #EXTINF:-1 group-title="Kids",DAVINCI
@@ -367,6 +340,9 @@ https://kochmedia-moviedomefamily-lg.amagi.tv/playlist.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 group-title="Kids",Nick Jr
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 group-title="Kids",Lego Kids Channel
+https://bit.ly/3FIHUgn?/playlist720p.m3u8
 #EXTINF:-1 group-title="Kids",Pluto TV Kids
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=989&deviceId=51c75f7bb6f26ba1cd00002f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 group-title="Kids",Anime All Day
@@ -427,12 +403,23 @@ http://89.254.128.5:22280/cnn/video.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 group-title="Religion",Harvest
 http://live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
+
+
 #EXTINF:-1 group-title="Sport",LifeFit by Triptic
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/lifefit-by-triptic/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23024&ads.content_duration=18000&ads.episode_id=94628&ads.show_id=3402&ads.showCategories=IAB7&ads.episodeCategories=IAB7&ads.genre=Sports&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=es&ads.showtitle=LifeFit%20by%20Triptic&ads.episodetitle=LifeFit%20by%20Triptic&ads.keywords=Life%2CFit%2CWorkouts%2CExercise%2CLifeFit&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
 #EXTINF:-1 group-title="Sport",Motorvision TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorvision-tv/a.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22886&ads.content_duration=18000&ads.episode_id=92944&ads.show_id=3369&ads.showCategories=IAB2&ads.episodeCategories=IAB2&ads.genre=Lifestyle&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=en&ads.showtitle=Motorvision%20TV&ads.episodetitle=Motorvision%20TV&ads.keywords=Motorvision%2CMotor%2CCars%2CLuxury%2CSports%20Cars%2CCar%20History&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&version=12&id=1199&partner=distro&ads.islive=1&ads.streamtype=live
 #EXTINF:-1 group-title="Sport",Racing America
 https://racingamerica-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Sport",Astro Super Sport 3
+https://sc2022.stream-link.org/tv2306.php?id=s21
+#EXTINF:-1 group-title="Sport",Bein Sports 3
+https://sc2022.stream-link.org/tv2306.php?id=s17
+
+
+#EXTINF:-1 group-title="Sport",Surf Now tv
+https://bit.ly/3J39Afq?/playlist_1920x1080.m3u8
 #EXTINF:-1 group-title="Sport",Boxing TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/BOXINGTV_SCTE.m3u8
 #EXTINF:-1 group-title="Sport",KOZOOM TV
@@ -513,8 +500,6 @@ https://i.klikhost.com/8266/stream
 https://stream.cloudmu.id/listen/female_radio/femaleradio
 #EXTINF:-1 group-title="Local Radio",Classy Padang
 http://stream.classyfm.co.id:1034/stream.mp3
-#EXTINF:-1 group-title="Local Radio",Thomson Jogja
-http://i.klikhost.com:8034/;
 #EXTINF:-1 group-title="Local Radio",Suara Surabaya
 https://c5.siar.us/proxy/ssfm/stream
 #EXTINF:-1 group-title="Local Radio",Merdeka FM SBY
@@ -563,8 +548,6 @@ http://s9.voscast.com:7824/1
 http://phoebe.streamerr.co:1650/stream
 #EXTINF:-1 group-title="Intl Radio",Shine
 http://s01.diazol.hu:10040/stream_low
-#EXTINF:-1 group-title="Intl Radio",Mix
-http://fijiradio.net:8000/live
 #EXTINF:-1 group-title="Intl Radio",OK
 http://s8.iqstreaming.com:18014/stream
 #EXTINF:-1 group-title="Intl Radio",Relaks
@@ -605,57 +588,92 @@ http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 http://stream.srg-ssr.ch/m/rsj/mp3_128
 #EXTINF:-1 group-title="Intl Radio 2",Radio paradise
 http://stream.radioparadise.com/mellow-flac
+
+
+
+#EXTINF:-1 group-title="Asia Radio",YES 933
+https://22393.live.streamtheworld.com/YES933_PREM.aac
+#EXTINF:-1 group-title="Asia Radio",LOVE 972
+https://14033.live.streamtheworld.com/LOVE972FM_PREM.aac
+#EXTINF:-1 group-title="Asia Radio",AsiaFM 亚洲热歌台
+http://hot.asiafm.net:8000/asiafm
+#EXTINF:-1 group-title="Asia Radio",AsiaFM 亚洲音乐台
+http://asiafm.hk:8000/asiafm
+#EXTINF:-1 group-title="Asia Radio",AsiaFM 亚洲经典台
+http://goldfm.cn:8000/goldfm
+#EXTINF:-1 group-title="Asia Radio",AsiaFM 亚洲天空台
+http://funradio.cn:8000/funradio
+#EXTINF:-1 group-title="Asia Radio",AsiaFM HD音乐台
+http://asiafm.hk:8000/asiahd
+#EXTINF:-1 group-title="Asia Radio",AsiaFM 亚洲粤语台
+http://yyt.asiafm.net:8000/asiafm
+#EXTINF:-1 group-title="Asia Radio",Big B Radio - 中文流行
+http://cpop.bigbradio.net/s
+#EXTINF:-1 group-title="Asia Radio",Big B Radio - 韩语流行
+http://kpop.bigbradio.net/s
+#EXTINF:-1 group-title="Asia Radio",Big B Radio - 日语流行
+http://jpop.bigbradio.net/s
+#EXTINF:-1 group-title="Asia Radio",Big B Radio - 亚洲流行
+http://apop.bigbradio.net/s
+#EXTINF:-1 group-title="Asia Radio",HitFM北部
+http://live.cooltv.top/tv/hitfm_backup.php?id=1
+#EXTINF:-1 group-title="Asia Radio",PopRadio台北流行广播
+http://live.cooltv.top/tv/popradio_backup.php?id=1
+
+#EXTINF:-1 group-title="Asia Radio",KissRadio大众广播
+http://live.cooltv.top/tv/kissradio_backup.php
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 ,True Hollywood Network
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/true-hollywood-network/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23113&ads.content_duration=18000&ads.episode_id=104433&ads.show_id=3664&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=en&ads.showtitle=True%20Hollywood%20Network&ads.episodetitle=True%20Hollywood%20Network&ads.keywords=Action%2CAdventure%2CComedy%2CDrama%2CFantasy%2CHorror%2CMystery%2CRomance%2CScience%20fiction%2CSports%2CThriller%2CAnimation&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
-
-
-
-
-
-
-#EXTINF:-1,AntMan & The Wasp Quantumania (2023) Cam
+#EXTINF:-1 ,AntMan & The Wasp Quantumania (2023) Cam
 https://1w61yw.bn.files.1drv.com/y4m8UXhfIG370pBt4WSO5h6IFOuvwmraw5Y0RwaCweWGDM2aPTzpQTSPqMLHDRUtHoU4KhyY2kMIHjAgtR0vIf9VSJsoL4qb1VW6wXfO4OseNzTwxS0kAcLGwfnDPx7PdY-NL_FdyhExR9XhTvP9LWxGkYIh1EdFc471BHVqCWBns-fEAofXBScelmm9QliwtKf50z1aHHnKJim_2iOayKLcw
-#EXTINF:-1,Ambush (2023)
+
+
+#EXTINF:-1 group-title="VOD",Ambush (2023)
 https://dej3pa.bl.files.1drv.com/y4mRJktXu5Fz45U8uqe-kwVhQewwDY8KDOCIs7bpz_xUCw3J3Dvu0Dnj-T2BtNEKAJqcjkxNZU-XmHHKGjv55m7_nZpY4WWso2DrRLtuWRfKeTznPwKwILwVwPVQByy1FOxQ_qoAw74fXm3Oof3v81WAzhe2LifGZoFexgr6cvI_6unLnD70hYgR9wWmkI8Dk-BcDpNxAOU3YUEsfz5rusqIQ
-#EXTINF:-1,Candy Land (2023)
+#EXTINF:-1 group-title="VOD",Candy Land (2023)
 https://wxkrnw.bn.files.1drv.com/y4mrD8SmhFYCGWfa9dhm_KbSXiDH3bQTOuFtVIlQRH2wUR4v1-O5aDoBNZeqhWDKnK90flm1m0UL406TqjxYQOTfZKpRbXRcCSnGdl8hR3fE_QkgrafjAGKLsKte-YZ222_BpqXPZt4vf7BvCW45OGr6Q7yGksjoAu3dOx4lpz7t_f3JGYVvFpd86LaWviZz1PUvifQ2a96x0vGrKj8kPqNgw
-#EXTINF:-1,Consecration (2023)
+#EXTINF:-1 group-title="VOD",Consecration (2023)
 https://1w4avw.bn.files.1drv.com/y4mXj6BDLNSK13_BlmYSRAXAXFHTSqAkNLPEQSo2x4LIpxKHzH1k4QhwrTOvn3wWVsqQybEPUlFvS81roSo1FFRlpdt8PDeR4cTKfElwHOHQDlZXhLzPz08G4OUERSp0jFCAgaON4yCVaFNSOOx_Uom74JfJfN-kcAOYVqkeaWDs5ZN0XR1Ig2EveThcGtdJuIp5EBn3i1H6AgSJfd0mhh_bw
-#EXTINF:-1,Detective Knight Independence (2023)
+#EXTINF:-1 group-title="VOD",Detective Knight Independence (2023)
 https://dehcya.bl.files.1drv.com/y4mI61EJ8VzFkQsrnEnglIfijYZtT-4J7ww-EpPU_i6WubMqeG1XvX1FFT1ian5d6ZN_LYIJ6HYkGFm8B1qKryUlOayTLgu4-Baka1Bn1p2jRS_tTwmrHoGxRzfZpVLDXPOUkUxOBIhSTGbPWaXaQKqMMaV8Rc6rrfRYYPbItdTE0_EYqamlN6y5Yzjmc2yN2AMTtDiKnINacVdlmcQJepJFg
-#EXTINF:-1,Domme (2023)
+#EXTINF:-1 group-title="VOD",Domme (2023)
 https://prgreg.sn.files.1drv.com/y4mGkwmdfDXemPikJVjbAJ2vWFh4DMsAjBl4j9VACsJKGpfNob1wgsJVZu465u72zV9E7f2U1PG2VQ3ikkgi_xOX3eTBUD2tLygp-6cAIVfZ9f-RIv4SZS774B-7Nu3PDuFO1oXTFsgpLHf7g2-zdedddW_nM14nQVxwBnDDN6XwUqIyZIZwaXvTFi9CKMFwrXECoYbr2YJe7vc-qjm6vVBuA
-#EXTINF:-1,Fast X Cam (2023)
+#EXTINF:-1 group-title="VOD",Fast X Cam (2023)
 https://ligepw.sn.files.1drv.com/y4mZNRojpnXBnpdJ9YIWR5C1iONnt1fvZR5rKF9fKfmVTy1PJJoQ-S08JC_BZRt7JsF4rXXnNeJG0sdmQvyKiRygKVQqgcBzs8Cjjb2TvJ8kywS8KSuSiyQlYZRP2WLGURU8yd3tSXilFCTnNmj3cEDYDczB1jGzN-X-TdhqItvlcGhfiDaK8g4-qWFFEXLwdERWOwU_V-Wv-yruZ-xNqJ41w
-#EXTINF:-1,Gangnam Zombie (2023)
+#EXTINF:-1 group-title="VOD",Gangnam Zombie (2023)
 https://os9rtq.bn.files.1drv.com/y4mp6OqS9_R25sCWGl5aBcVZ1dfPqGHMo8vCJ2N53b1CGoF0XuujIT92_sMajPd3BF5eoO1bufQYN7KWF2-2DfAZ3VpDnRzC7eFpwmalY-0j9j2dy-dkhiq7uHV-pRNRNGIwFotIRuMiaolMnTZhqwT-q3AoZi4j5--Y2jYQu5Vy5kngfr6-8OgDq8Hyut4pqs4sHUexysqR77ycQwyFJKmgw
-#EXTINF:-1,House Party (2023)
+#EXTINF:-1 group-title="VOD",House Party (2023)
 https://www.dropbox.com/s/k4ww0fi8co8wmtt/dzifp-housepart2023.mp4?dl=1
-#EXTINF:-1,John Wick Chapter 4 (2023)
+#EXTINF:-1 group-title="VOD",John Wick Chapter 4 (2023)
 https://www.dropbox.com/s/6cayjjw87le2mea/dzifp-johnwick4.mp4?dl=1
-#EXTINF:-1,Jung-E (2023)
+#EXTINF:-1 group-title="VOD",Jung-E (2023)
 https://v9jsrq.bn.files.1drv.com/y4mIzWm6ep4dLlpJl5yidqxs4KMCY7jn702X2KPd7KP3ssVrPk6oacEY3bes9PEPh56RH9S4VZsbqyZunuJgRdWNfNlK96O-MjjFDusSnfDlgqrvfspAYxdpyN-gzF_IrrskC8Jh-st-KhHJQHHp9UKqc69Nu5BjvrY7yQr2qsTBo7O0XpCIid055xcpoPYsbJYJWDQg6vRJr8oV2DjfUvXWw
-#EXTINF:-1,Legions (2023)
-https://www.dropbox.com/s/dp9fgcucj73ch9i/D21.FUN-Legions-2023-1674958792.mp4?dl=1
-#EXTINF:-1,Love At First Kiss (2023)
+#EXTINF:-1 group-title="VOD",Love At First Kiss (2023)
 https://d72ljg.bl.files.1drv.com/y4midZer4jCfLV7bz2kNqUN08ZH4e_Yo_V_WgNZ_2ZNuctrCLL3uWwq6yJTjAe0a47Pa5Rkr_zEDmUEgUSqRHxn_fv-5ueR8WpqmAkbCwPhBLur31-9V8Ltk4hcToahJdGuHyGLAlVUlCCCoXEL2Tkr9lxLvSlDv_qR_fK4-LOoubEOa01XXhrpt4KgDNTT_xgJw80UBHMMe7dTlC-kGa43iA
-#EXTINF:-1,Magic Mike Last Dance (2023)
+#EXTINF:-1 group-title="VOD",Magic Mike Last Dance (2023)
 https://dehxnq.bl.files.1drv.com/y4mkaUL9fMZggtGm7_eyciaMdjfBXxA-AatfjJYtXL_IxEsTtixDc850hHlyHBwegl7wcI9iFBIJOzgzpCn7W7o8nKsauhijkVgQDSZCsws98f1cx5YIM7e6A7QLylMZL09aLaAusYZs8IUSOD6eBv9FBUqdJT0iJ59U1vy9xFrvFkbe34iTzjnpJZa7jHrHPCwwwks67RE0uY65kp1NGgxCw
-#EXTINF:-1,Missing (2023)
+#EXTINF:-1 group-title="VOD",Missing (2023)
 https://1uncpg.bn.files.1drv.com/y4mDH850VcBg2R2C5ivleS0mjjIP9zqdWTWbvHBKK5aeZnnakb97ad1QMFkcux63aL64UwAdE9VjwB5EODfgkAx6plmaB2nZytm1iHfnaaFmCiriRhkS0UoIlyHkBLyU11XtUS9feLVp3OcovNJSHiObjptohExmmVbHOhvGGgHTtquUjOU0f283H1N-CIQQ3HKwu6bUa-vcn3uO-efVjafVQ
-#EXTINF:-1,Night Train (2023)
-https://www.dropbox.com/s/ctr2usfjv9bphwy/D21.FUN-Night-Train-2023-1674777782.mp4?dl=1
-#EXTINF:-1,Panther Swat (2023)
+#EXTINF:-1 group-title="VOD",Panther Swat (2023)
 https://osqqqa.bn.files.1drv.com/y4mY-uslm7LZjbUzNqDXfKhvlMh35DY_RZlX2UNmil6xc8bSY4A73ayRknCknz0TPw92Tl5XK90enhqpIrQOjk-btqK0HXZO84jQ9P_dvNK1hMTCYYH26yyDHOtnpThvObAX-gzCJu091GsuZSzidURzn_A3KLy-W0wUWf_w-ilJnaqN3X7B2_hMvqB5lNgk633EksXk5SfwVrwqQs0JVLVrg
-#EXTINF:-1,Plane (2023)
+#EXTINF:-1 group-title="VOD",Plane (2023)
 https://www.dropbox.com/s/bmvat7xcbxxvx4j/D21.FUN-Plane-2023-1675423071.mp4?dl=1
-#EXTINF:-1,Peterpan & Wendy (2023)
+#EXTINF:-1 group-title="VOD",Peterpan & Wendy (2023)
 https://www.dropbox.com/s/mg94zxkcfjoedvq/D21.FUN-Peter-Pan-Wendy-2023-1682681957.mp4?dl=1
-#EXTINF:-1,Supercell (2023)
+#EXTINF:-1 group-title="VOD",Supercell (2023)
 https://www.dropbox.com/s/rvofrvr53a2wva0/dzifp-supercell2023.mp4?dl=1
-#EXTINF:-1,The Devil Conspiracy (2023)
-https://www.dropbox.com/s/sivvl3w17h0n6d6/D21.FUN-The-Devil-Conspiracy-2023-1677941881.mp4?dl=1
-#EXTINF:-1,The Girl Who Escaped:The Kara Robinson Story (2023)
+#EXTINF:-1 group-title="VOD",The Girl Who Escaped:The Kara Robinson Story (2023)
 https://nsg5bq.dm.files.1drv.com/y4mNjakybgeh-ZU6uq253IAlNMXwaeZZ_BfrU0ybWWPL1n_ftSCgNwc1_cjFH16oCmJvXZT6I5sILrmd4ZQqV7Ylsjg4OekVvpUUgtpqpONgGBDAEE64UvGfxqiKM3eQWsYWnHmWtLA46YuV0x9q8UBgy61Laszmz0G_dxQl5XTfvtT7KonaxJx0p3EOZCZ9uBGnNq3jhvfR8Wwk1JPyawN3A
-#EXTINF:-1,The Park (2023)
+#EXTINF:-1 group-title="VOD",The Park (2023)
 https://8kpldg.dm.files.1drv.com/y4mXK2VOY_h17-VDctu6u-iu5ghwJLJo-1IbvR3UdUITcDueslfSG1g4gF8oPDWeu0yQTdckmnr-JNXIZU8KcwE8us0bY1o4_E6T6lK4a-K1owPjCNxJu_P0VO6aQBXx7lvpzvuKNQpfkPDMNz4RnK5qTojhWpwjJr11-LlgepIiKTLbJ23kKuqARDe8NIrZpGFdvR1c2BqYgMNY0RUXhyKig
