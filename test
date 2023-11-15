@@ -3,6 +3,8 @@
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Premium Movies",Moviesphere
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Premium Movies",Hallmark
+https://bit.ly/3NjZLi9?/playlist.m3u8
 #EXTINF:-1 group-title="Premium Movies",Action Movies
 https://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 ,Moviedome
@@ -157,13 +159,13 @@ https://edge1.laotv.la/live/Cinemax/sc-gaFECQ/v1/index.m3u8
 https://edge1.laotv.la/live/StarMovie/sc-gaFECQ/v1/index.m3u8
 
 
-#EXTINF:-1 ,HBO Signature*
+#EXTINF:-1 ,HBO Signature
 http://208.115.225.174:14160
-#EXTINF:-1 ,HBO*
+#EXTINF:-1 ,HBO
 http://208.115.225.174:14136
-#EXTINF:-1 ,HBO Extreme*
+#EXTINF:-1 ,HBO Extreme
 http://208.115.225.174:14165
-#EXTINF:-1 ,HBO2*
+#EXTINF:-1 ,HBO2
 http://208.115.225.174:14140
 #EXTINF:-1 ,MY CINEMA EUROPE
 https://op-group1-swiftservehd-1.dens.tv/h/h18/02.m3u8
@@ -206,6 +208,11 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d815eb889bca2ce7b
 https://d22ljxpuae2sin.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="Premium Movies",FR Classic Movies
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Entertainment",5 Min Crafts
+https://bit.ly/3QLfTvi?/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",CraftsyTV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/craftsytv/playlist.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23108&ads.content_duration=18000&ads.episode_id=100517&ads.show_id=3570&ads.showCategories=IAB9&ads.episodeCategories=IAB9&ads.genre=Lifestyle&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=CraftsyTV&ads.episodetitle=CraftsyTV&ads.keywords=Quilting%2CKnitting%2CCrochet%2CCake%20Decorating%2CBaking%2CCooking%2CYoga%2CWoodworking%2CSlow%20TV%2CJewelry%20Making%2CPhotography%2CDrawing%2CHome%20Decor%2CPainting%2CPaper%20Crafting&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=craftsytv&ads.islive=1&ads.streamtype=live
 #EXTINF:-1 group-title="Entertainment",Just for Laughs
