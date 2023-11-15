@@ -354,8 +354,11 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-soyummy-xumo/CDN/master.m3u8
 
 #EXTINF:-1 group-title="Kids",Cartoon Network
 http://212.0.211.102:9999/play/a01g/index.m3u8
-#EXTINF:-1 group-title="Kids",DAVINCI
+#EXTINF:-1 group-title="Kids",Davinci
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch371%29/index.m3u8
+
+#EXTINF:-1 group-title="Kids",Lego Kids Channel
+https://bit.ly/3FIHUgn?/playlist720p.m3u8
 #EXTINF:-1 group-title="Kids",Baby First
 https://origin1.noisypeak.com/4XhPa5v93P3za6G0cMyV/playlist.m3u8
 #EXTINF:-1 group-title="Kids",BratTV
