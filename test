@@ -9,39 +9,38 @@ https://bit.ly/3NjZLi9?/playlist.m3u8
 https://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 ,Moviedome
 https://kochmedia-moviedome-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,Movies4Free
+#EXTINF:-1 group-title="Premium Movies",Movies4Free
 https://movies4free-lg.amagi.tv/playlist.m3u8
  
-#EXTINF:-1 ,Groovy TV
+#EXTINF:-1 group-title="Premium Movies",Groovy TV
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
-#EXTINF:-1 ,EUROSPORT
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch21%29/index.m3u8
-#EXTINF:-1 ,PARAMOUNT NETWORK
+
+#EXTINF:-1 group-title="Premium Movies",Paramount Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch309%29/index.m3u8
-#EXTINF:-1 ,HITSMOVIE
+#EXTINF:-1 group-title="Premium Movies",Hits Movie
 http://op-group1-swiftservehd-1.dens.tv/h/h206/02.m3u8
-#EXTINF:-1 group-title="Premium Movies",K.MOVIES
+#EXTINF:-1 group-title="Premium Movies",Korea Movies
 https://newidco-newmovies-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Premium Movies",WoW
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1 ,PTV Drama
+#EXTINF:-1 group-title="Premium Movies" ,PTV Drama
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dc039c65b56d0000945af0e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 ,Celestial Movies
+#EXTINF:-1 group-title="Premium Movies",Celestial Movies
 http://op-group1-swiftservehd-1.dens.tv/h/h212/01.m3u8
 #EXTINF:-1 ,Celestial Movies HD
 http://op-group1-swiftservehd-1.dens.tv/h/h212/02.m3u8
-#EXTINF:-1 ,Rock Ent
+#EXTINF:-1 group-title="Premium Movies",Rock Ent
 http://op-group1-swiftservehd-1.dens.tv/h/h213/01.m3u8
 #EXTINF:-1 ,Rock Ent HD
 http://op-group1-swiftservehd-1.dens.tv/h/h213/02.m3u8
-#EXTINF:-1 ,Rock Action
+#EXTINF:-1 group-title="Premium Movies",Rock Action
 http://op-group1-swiftservehd-1.dens.tv/h/h218/01.m3u8
 #EXTINF:-1 ,Rock Action HD
 http://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8
  
-#EXTINF:-1 ,MBC Max
+#EXTINF:-1 group-title="Premium Movies",MBC Max
 http://176.65.146.154:8033/play/a079/index.m3u8
-#EXTINF:-1 ,MBC 2
+#EXTINF:-1 group-title="Premium Movies",MBC 2
 http://176.65.146.154:8029/play/a03i/index.m3u8
  
 
@@ -58,15 +57,12 @@ https://e1c61ff393ae4a4d93f1f12e3fdae43d.mediatailor.us-east-1.amazonaws.com/v1/
 https://002933288fed459bbb7fe5e82562c3e2.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-gb_RakutenThriller/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=15&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=CPn5KgAPn5KgAADABBPLC4CsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgiAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAggAogBQQAACCIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAIAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads.market=uk&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=9545f581-7373-4bce-8a6f-29b52118cc80&ads.rtv_content_id=3329&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=6554982f-3267-48fe-acb5-341d6f4305d3&ads.user_type=visitor&ads.wurl_channel=883
 #EXTINF:-1,Romance Movies - Rakuten TV
 https://f5804858608b4fb7a9a831a7b2572a79.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-gb_RakutenRomance/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=15&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=CPn5KgAPn5KgAADABBPLC4CsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgiAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAggAogBQQAACCIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAIAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads.market=uk&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=9545f581-7373-4bce-8a6f-29b52118cc80&ads.rtv_content_id=3288&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=fdcf3775-1e2d-488f-8f5b-11069a2637c8&ads.user_type=visitor&ads.wurl_channel=888
-#EXTINF:-1,Trailers
+#EXTINF:-1 group-title="Premium Movies",Trailers
 https://b3305a6500ea4c0a9802d2fbd4478085.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-4313/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=15&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=CPn5KgAPn5KgAADABBPLC4CsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgiAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAggAogBQQAACCIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAIAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads.ifa_type=ppid&ads.market=uk&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=9545f581-7373-4bce-8a6f-29b52118cc80&ads.rakutentv_channel=4313&ads.rtv_content_id=4313&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=173c39bf-724b-40d6-95e0-d92521377bdd&ads.user_type=visitor
-#EXTINF:-1,Big Time
+#EXTINF:-1 group-title="Premium Movies",Big Time
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/953ec5ab-c54c-11ec-967f-401ac48a6867/0/master.m3u8?ads:amznbrmid=&ads:amznregion=&ads:amznslots=&ads:app_bundle=com.rakuten.tv&ads:content_classification=15&ads:device_type=web&ads:device_year=1970&ads:funke_channel_id=RAKB0007&ads:language=eng&ads:market=uk&ads:player_height=1080&ads:player_width=1920&ads:pod_type=playerpage_midroll&ads:rtv_content_id=4130&ads:streaming_id=e10c2bb6-8d55-4fb1-86ca-a3a0b47a2e19&ads:tcf=CPn5KgAPn5KgAADABBPLC4CsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgiAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAggAogBQQAACCIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAIAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads:user_type=visitor&country=gb&optout=0&uid=9545f581-7373-4bce-8a6f-29b52118cc80&vendor=rakuten
-#EXTINF:-1,Popflix
+#EXTINF:-1 group-title="Premium Movies",Popflix
 https://75bced9559e343058577aeae94f36a8c.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-gb_Popflix/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=15&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=CPn5KgAPn5KgAADABBPLC4CsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgiAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAggAogBQQAACCIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAIAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads.market=uk&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=9545f581-7373-4bce-8a6f-29b52118cc80&ads.rtv_content_id=4279&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=5a4cef4a-2ffe-46f6-b0e8-a11d03596d8a&ads.user_type=visitor&ads.wurl_channel=1068
-#EXTINF:-1,Mech+
-https://197bf837c9494acf8a8f1185401b8059.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-gb_MechPlus/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=7&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=CPn5KgAPn5KgAADABBPLC4CsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgiAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAggAogBQQAACCIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAIAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads.market=uk&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=9545f581-7373-4bce-8a6f-29b52118cc80&ads.rtv_content_id=4702&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=269117eb-e75d-4188-8a16-8c42ea809b63&ads.user_type=visitor&ads.wurl_channel=1413
-
 
 
 
@@ -211,6 +207,9 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_500
 
 
 
+
+#EXTINF:-1 group-title="Entertainment",Mech+
+https://197bf837c9494acf8a8f1185401b8059.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-gb_MechPlus/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.content_classification=7&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=CPn5KgAPn5KgAADABBPLC4CsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgiAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAggAogBQQAACCIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAIAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&ads.market=uk&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=9545f581-7373-4bce-8a6f-29b52118cc80&ads.rtv_content_id=4702&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=269117eb-e75d-4188-8a16-8c42ea809b63&ads.user_type=visitor&ads.wurl_channel=1413
 #EXTINF:-1 group-title="Entertainment",5 Min Crafts
 https://bit.ly/3QLfTvi?/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment",CraftsyTV
@@ -428,6 +427,12 @@ http://89.254.128.5:22280/cnn/video.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 group-title="Religion",Harvest
 http://live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Sport",Eurosport
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch21%29/index.m3u8
 #EXTINF:-1 group-title="Sport",LifeFit by Triptic
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/lifefit-by-triptic/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23024&ads.content_duration=18000&ads.episode_id=94628&ads.show_id=3402&ads.showCategories=IAB7&ads.episodeCategories=IAB7&ads.genre=Sports&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=es&ads.showtitle=LifeFit%20by%20Triptic&ads.episodetitle=LifeFit%20by%20Triptic&ads.keywords=Life%2CFit%2CWorkouts%2CExercise%2CLifeFit&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
 #EXTINF:-1 group-title="Sport",Motorvision TV
