@@ -675,6 +675,11 @@ https://8kpldg.dm.files.1drv.com/y4mXK2VOY_h17-VDctu6u-iu5ghwJLJo-1IbvR3UdUITcDu
 
 
 
+
+#EXTINF:-1 group-title="Intl Radio Xmas",Xmas Mix
+https://listen.181fm.com/181-xmix_128k.mp3
+#EXTINF:-1 group-title="Intl Radio Xmas",Xmas Country US
+https://listen.181fm.com/181-xcountry_128k.mp3
 #EXTINF:-1 group-title="Intl Radio Xmas",Xmas hope AUS
 http://stream.hopemedia.com.au/christmashope-mp3
 #EXTINF:-1 group-title="Intl Radio Xmas",Xmas Court US
@@ -699,3 +704,5 @@ http://stream.laut.fm/christmasradio24
 http://stream.laut.fm/christmastime
 #EXTINF:-1 group-title="Intl Radio Xmas", Light Xmas AUS
 https://stream.thelight.com.au:8150/;
+#EXTINF:-1 group-title="Intl Radio Xmas", Always Xmas
+https://strm112.1.fm/christmas_mobile_mp3
