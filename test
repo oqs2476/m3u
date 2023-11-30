@@ -693,8 +693,9 @@ https://stream2.cnmns.net/christmashope-mp3
 http://stream.laut.fm/christmasradio
 #EXTINF:-1 group-title="Intl Radio Xmas",Xmas Radio UK
 http://listen-christmasradio.sharp-stream.com/733_christmas_radio_128_mp3
-
-
-
-
-
+#EXTINF:-1 group-title="Intl Radio Xmas",Xmas Radio 24
+http://stream.laut.fm/christmasradio24
+#EXTINF:-1 group-title="Intl Radio Xmas",Xmas time
+http://stream.laut.fm/christmastime
+#EXTINF:-1 group-title="Intl Radio Xmas", Light Xmas AUS
+https://stream.thelight.com.au:8150/;
