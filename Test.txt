@@ -576,6 +576,8 @@ https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b
 https://s8.sky4k.top/stream/astro/hbo/master.m3u8?u=cvappuser&p=0f573e68e00dff8dca0ea6fb2e78c1b9b490a64e8d103112965404558fc00aa8
 #EXTINF:-1 group-title="Premium Movies",Rock Actions
 https://smart.pendy.dpdns.org/Smart.php?id=Rockaction
+#EXTINF:-1 group-title="Premium Movies",Celestial Movies
+https://smart.pendy.dpdns.org/Smart.php?id=Celestialindo
 
 #EXTINF:-1 group-title="Premium Movies",HBO HITS
 https://s8.sky4k.top/stream/astro/hbohits/master.m3u8?u=cvappuser&p=0f573e68e00dff8dca0ea6fb2e78c1b9b490a64e8d103112965404558fc00aa8
