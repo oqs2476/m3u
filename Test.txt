@@ -574,6 +574,9 @@ https://b3305a6500ea4c0a9802d2fbd4478085.mediatailor.eu-west-1.amazonaws.com/v1/
 https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=
 #EXTINF:-1 group-title="Premium Movies",HBO
 https://s8.sky4k.top/stream/astro/hbo/master.m3u8?u=cvappuser&p=0f573e68e00dff8dca0ea6fb2e78c1b9b490a64e8d103112965404558fc00aa8
+#EXTINF:-1 group-title="Premium Movies",Rock Actions
+https://smart.pendy.dpdns.org/Smart.php?id=Rockaction
+
 #EXTINF:-1 group-title="Premium Movies",HBO HITS
 https://s8.sky4k.top/stream/astro/hbohits/master.m3u8?u=cvappuser&p=0f573e68e00dff8dca0ea6fb2e78c1b9b490a64e8d103112965404558fc00aa8
 #EXTINF:-1 group-title="Premium Movies",HBO FAMLIY
