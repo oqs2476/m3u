@@ -683,6 +683,25 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1,nick
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 
+
+#EXTINF:-1,Mix Hollywood (1080p)
+https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
+
+#EXTINF:-1,Movies Action (1080p)
+https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
+
+#EXTINF:-1,Movies Thriller (1080p)
+https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
+
+
+#EXTINF:-1,ROCK Action
+https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
+#EXTINF:-1,Rock Entertainment
+https://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
+
+
+
+
 #EXTINF:-1,Eurosport_HD
 http://151.80.18.177:86/Eurosport_HD/index.m3u8
 #EXTINF:-1,Eurosport_2_HD
@@ -723,44 +742,6 @@ https://homeplushls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1,FX2
 https://toonixhls.wns.live/hls/stream.m3u8
-
-#EXTINF:-1,HBO 1 HD
-http://185.166.252.230/Hbo1/index.m3u8
-#EXTINF:-1,HBO 2 HD
-http://185.166.252.230/Hbo2/index.m3u8
-#EXTINF:-1,HBO 3 HD
-http://185.166.252.230/Hbo3/index.m3u8
-
-
-#EXTINF:-1,Pink Film
-http://185.166.252.230/PinkFilm/index.m3u8
-#EXTINF:-1,Pink Action
-http://185.166.252.230/PinkAction/index.m3u8
-#EXTINF:-1,Pink Comedy
-http://185.166.252.230/PinkComedy/index.m3u8
-#EXTINF:-1,Pink Horor
-http://185.166.252.230/PinkHoror/index.m3u8
-#EXTINF:-1,Pink Movies
-http://185.166.252.230/PinkMovies/index.m3u8
-#EXTINF:-1,Pink Premium HD
-http://185.166.252.230/PinkPremium/index.m3u8
-#EXTINF:-1,Pink Thriller
-http://185.166.252.230/PinkThriller/index.m3u8
-
-
-#EXTINF:-1,DaVinci HD
-http://185.166.252.230/DaVinci/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
 
 
 
