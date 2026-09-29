@@ -1,5 +1,316 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml"
 #EXTM3U billed-msg="Tayangan lokal dan Olah raga Internasional"
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,MBC Max
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-max/b628d2bbaee0431a17859963edf2975f/index.mpd
+
+#EXTINF:-1,mbc max HD
+http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2073336&extension=ts&play_token=7eudJTgkLL
+
+#EXTINF:-1,mbc seven + HD
+http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=1765940&extension=ts&play_token=PaJCWAQM2I
+#EXTINF:-1,mbc eight + HD
+http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=1765952&extension=ts&play_token=j9rapH84lz
+#EXTINF:-1,mbc nine HD
+http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=1765955&extension=ts&play_token=cIOp2eiM71
+#EXTINF:-1,beIN MOVIES 1 HD
+http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=1356721&extension=ts&play_token=BYyCiYrqnE
+#EXTINF:-1,beIN MOVIES 2 HD
+http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=1356720&extension=ts&play_token=URSwxtGSG2
+#EXTINF:-1,beIN MOVIES 3 HD
+http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=1356719&extension=ts&play_token=z6oQgLJacZ
+#EXTINF:-1,beIN MOVIES 4 HD
+http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=1356718&extension=ts&play_token=jjEIOcRW8p
+#EXTINF:-1,beIN SERIES 1 HD
+http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=1141579&extension=ts&play_token=lAK3oyzFef
+#EXTINF:-1,beIN SERIES 2 HD
+http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=1141578&extension=ts&play_token=E4vABgZbsh
+#EXTINF:-1,beIN DRAMA
+http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=1141577&extension=ts&play_token=ClWxidifsb
+#EXTINF:-1,beIN STAR ACTION HD
+http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2112489&extension=ts&play_token=bFgpkHyIXZ
+#EXTINF:-1,beIN STAR MOVIES HD
+http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=1356722&extension=ts&play_token=4xLYsAGAaz
+#EXTINF:-1,beIN STAR WORLD HD
+http://185.243.7.171:80/play/live.php?mac=00:1B:79:F9:9F:64&stream=2112487&extension=ts&play_token=asQ00jMs89
+#EXTINF:-1,beIN OD MOVIES 2 HD
+http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=1010764&extension=ts&play_token=gmI7XwxObd
+#EXTINF:-1,beIN OD MOVIES 3 HD
+http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=1010763&extension=ts&play_token=dU1vvJOiP8
+#EXTINF:-1,beIN OD MOVIES 6 HD
+http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=671287&extension=ts&play_token=kXhI7csoUs
+#EXTINF:-1,beIN OD MOVIES 7 HD
+http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=671286&extension=ts&play_token=m6ktICjeWd
+#EXTINF:-1,beIN OD MOVIES 9 HD
+http://185.243.7.171/play/live.php?mac=00:1B:79:F9:9F:64&stream=671292&extension=ts&play_token=HXhfYwH0Li
+#EXTINF:-1,SkyCinema Premiere
+http://zoralatte.com:8080/live/Cruzvictor148/9354907121/47820.ts
+#EXTINF:-1,SkyCinema Action
+http://zoralatte.com:8080/live/Cruzvictor148/9354907121/47813.ts
+#EXTINF:-1,Movies Action (1080p)
+https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
+#EXTINF:-1,Movies Thriller (1080p)
+https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
+
+#EXTINF:-1,mbc max
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/15195/index.m3u8
+#EXTINF:-1,mbc action
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/15197/index.m3u8
+
+#EXTINF:-1,MBC Movies Action
+https://shd-amg-fast.edgenextcdn.net/tx011/1080p-d/index.m3u8
+#EXTINF:-1,MBC Movies Thriller
+https://shd-amg-fast.edgenextcdn.net/tx012/1080p-d/index.m3u8
+#EXTINF:-1,Canal+ Cinema
+http://prime8k.co:80/live/52e4c1a1d2a9/b310183aeb/106908.ts
+#EXTINF:-1,Canal+ Box Office
+http://prime8k.co:80/live/52e4c1a1d2a9/b310183aeb/569466.ts
+
+#EXTINF:-1,MBC Action
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-action/8ea6ca1108d03e03da5e61372354f5c8/index.mpd
+
+#EXTINF:-1,MBC Action
+http://dejatedemamadas.neospaxy.top:8080/401698088174121/71702623872831/53053
+
+#EXTINF:-1,Romedy Now
+http://59.103.38.46:8000/play/a05x/index.m3u8
+
+#EXTINF:-1,Mix Hollywood
+https:\\ml-pull-hwc.myco.io\MixTV\hls\index.m3u8
+
+#EXTINF:-1,Movies Action
+https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
+
+#EXTINF:-1,Movies Thriller
+https:\\shd-amg-fast.edgenextcdn.net\tx012\playlist.m3u8
+
+#EXTINF:-1,Tropoja TV
+https:\\live.prostream.al\al\smil:tropojatv.smil\playlist.m3u8
+
+#EXTINF:-1,Car chase
+https://jmp2.uk/plu-65a93b0607e03a000895abda.m3u8
+
+#EXTINF:-1,Date naked
+https://jmp2.uk/plu-692edc78d52ea9e4858cf78f.m3u8
+
+#EXTINF:-1,Paradise hotel
+https://jmp2.uk/plu-61c19af83fae0a00078c8918.m3u8
+
+#EXTINF:-1,Xmas movie
+https://jmp2.uk/plu-63048147b09fd60007847a08.m3u8
+
+#EXTINF:-1,Snooker
+https://jmp2.uk/plu-68ac55bb3efb41cd979a65ec.m3u8
+
+#EXTINF:-1,Smithsonian
+https://jmp2.uk/plu-61fb988e032c0100077d5252.m3u8
+
+#EXTINF:-1,L word
+https://jmp2.uk/plu-693ae48864476d678e9b6235.m3u8
+
+#EXTINF:-1,Free movie
+https://jmp2.uk/plu-62bebc3459624e00078209c3.m3u8
+
+#EXTINF:-1,Replay
+https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8
+
+
+#EXTINF:-1,Asian Crush
+https://linear-900.frequency.stream/dist/cineverse/900/hls/master/playlist.m3u8
+
+#EXTINF:-1,BBC Earth
+https:\\amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv\BBCStudios-BBCEarthA-hls\playlist.m3u8
+
+#EXTINF:-1,Bon Apetit
+https:\\bonappetit-samsung.amagi.tv\playlist.m3u8
+
+#EXTINF:-1,Brat TV
+https:\\streams2.sofast.tv\v1\master\611d79b11b77e2f571934fd80ca1413453772ac7\04072b68-dc6a-4d5e-98af-f356ba8d5063\playlist.m3u8
+
+#EXTINF:-1,British comedy
+https://jmp2.uk/plu-638e11951177840007fdd6b2.m3u8
+
+#EXTINF:-1,Britbox mystery
+https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8
+
+#EXTINF:-1,Broad city
+https://jmp2.uk/plu-65cba7b1ec452d0008acbed8.m3u8
+
+#EXTINF:-1,Cine Sony
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1,More Max
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+
+
+
+
+
+#EXTINF:-1,Cuisine Culture
+https://streams2.sofast.tv/ptnr-khabriya/title-Cuisine_Culture_Khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/44ed77f9-8d77-4345-9b36-dbafc937e9e1/manifest.m3u8?ads.app_storeid=com.neotv.app&ads.app_storeurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.neotv.app&ads.app_name=NeoTV+&ads.language=EN&ads.inapp_browser=inapp&ads.w=1080&ads.h=720&ads.os_code=2&ads.device_type_code=3&ads.us_privacy=1NYN&ads.coppa=0&ads.lmt=0
+
+#EXTINF:-1,Now Global
+https://nowhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1,Summer Vibes
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AV_WIDTH=1920&AV_HEIGHT=1080&AV_APPNAME=neotv+&AV_APPPKGNAME=com.neotv.app&AVS_SSAIID=69ee044381070c5365044514
+
+#EXTINF:-1,Travel 4K
+https://streams2.sofast.tv/ptnr-khabriya/title-4K-TRAVEL-TV-ENG_Khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8137054b-fa92-44b8-a4db-76ade385f8a1/manifest.m3u8?ads.app_storeid=com.neotv.app&ads.app_storeurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.neotv.app&ads.app_name=NeoTV+&ads.language=EN&ads.inapp_browser=inapp&ads.w=1080&ads.h=720&ads.os_code=2&ads.device_type_code=3&ads.us_privacy=1NYN&ads.coppa=0&ads.lmt=0
+
+#EXTINF:-1,14 Wion
+http://vg-zeefta.akamaized.net/ptnr-yupptv/title-wion/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/20c3c0d9-0256-43fe-bca6-70fdd490b957/main.m3u8?ads.channel=3941&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1790646015~exp=1790667615~acl=!*/ptnr-yupptv/title-wion/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/20c3c0d9-0256-43fe-bca6-70fdd490b957/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_20.169.100.243_yuppfast_2_channel_14_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_20.169.100.243_yuppfast_2_channel_14_-1~hmac=3eaf821a06ceb0b6f5e4c45fbc91c18e23abf41b4dbff6f94ff5b05024cc9226&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=Wion&ads.language=ENG&ads.user=0
+
+#EXTINF:-1,272 MMA TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/72581a39-9590-4c64-998e-b61fcf2d0294/playlist.m3u8?ads.channel=6949&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1790646029~exp=1790667629~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/72581a39-9590-4c64-998e-b61fcf2d0294/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_20.169.100.243_yuppfast_2_channel_272_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_20.169.100.243_yuppfast_2_channel_272_-1~hmac=52cc92cdf3f5ba688a440be5a4e16c893d5f1e60cf74226f18e51f2540a4cd38&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=SPORTS&ads.channel_name=MMATV&ads.language=ENG&ads.user=0
+
+#EXTINF:-1,318 Pocket Films
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/playlist.m3u8?ads.channel=7097&ads.content_custom_1_param=FAST&ads.user=2&hdnts=st=1790646040~exp=1790667640~acl=!*/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/*!/payload/yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_20.169.100.243_yuppfast_2_channel_318_-1/*~data=yupptvott_5_-1_3b6f5839-0b53-aa06-7a80-023047a6357c_US_20.169.100.243_yuppfast_2_channel_318_-1~hmac=86704fb60a38d6c37e155b86eb7ca6cd970321487d57714c25c5fe0f3ac88cd9&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=MOVIES&ads.channel_name=PocketFilms&ads.language=HIN&ads.user=0
+
+#EXTINF:-1,5-Minute Crafts
+https://jmp2.uk/plex-6430aa45fc3be5947780904e-63894c1965b848bf2c8a7800.m3u8
+
+#EXTINF:-1,CraftsyTV
+https://jmp2.uk/plex-6430aa45fc3be5947780904e-6365779dde08f8eec6c3f21f.m3u8
+
+#EXTINF:-1,FashionTV
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6490c01f3b3ce9e1aaad95be.m3u8
+
+#EXTINF:-1,GUSTOTV
+https://jmp2.uk/plex-64305451fc3be5947773c339-5f8746eabd529300418246d9.m3u8
+
+#EXTINF:-1,Million Dollar Dream Home
+https://jmp2.uk/plex-6a1610bebdf296985fd95603-684c2379e32026b0c1f53793.m3u8
+
+#EXTINF:-1,NEW KFOOD
+https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-68b9f5a3d60e5dd29263c7ac.m3u8
+
+#EXTINF:-1,Robot Wars by Mech+
+https://jmp2.uk/plex-697140a85d851f5e69414688-6470477fe536e0faaf10be9d.m3u8
+
+#EXTINF:-1,Stingray Holidayscapes
+https://jmp2.uk/plex-697140a85d851f5e69414688-654eb862dde2222e8ba551f1.m3u8
+
+#EXTINF:-1,Today's K-Pop
+https://jmp2.uk/plex-64305451fc3be5947773c339-62ee6eae271f393d2d9f7096.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 
 ############# Visionplus TV #############
 
